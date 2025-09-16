@@ -4,7 +4,7 @@ This repository contains code and datasets associated with the paper:
 
 > Greshko, Michael A. (2025). The Naibbe cipher: a substitution cipher that
   encrypts Latin and Italian as Voynich Manuscript-like ciphertext. Preprint;
-  submitted to Cryptologia.
+  under review at Cryptologia.
   
 ## Abstract
 
@@ -54,7 +54,7 @@ following conditions:
 
 > Greshko, Michael A. (2025). The Naibbe cipher: a substitution cipher that
   encrypts Latin and Italian as Voynich Manuscript-like ciphertext. Preprint;
-  submitted to Cryptologia.
+  under review at Cryptologia.
   
 THE SOFTWARE AND DATASETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
