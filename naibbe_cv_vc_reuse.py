@@ -584,7 +584,6 @@ def main(argv=None):
         _unit_test_basic_encrypt()
         _unit_test_plaintext_alignment()
         return
-    apply_args(args)
     reset_reuse_stats()
 
     with open(args.input, "r", encoding="utf-8") as fin, \
