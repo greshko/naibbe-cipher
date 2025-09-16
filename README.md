@@ -1,4 +1,4 @@
-# The Naibbe cipher: a substitution cipher that mimics the VMS
+# The Naibbe cipher: a substitution cipher that mimics the Voynich Manuscript
 
 This repository contains code and datasets associated with the paper:
 
