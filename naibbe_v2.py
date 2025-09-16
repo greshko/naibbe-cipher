@@ -36,7 +36,7 @@ TABLES = ['alpha', 'beta1', 'beta2', 'beta3', 'gamma1', 'gamma2']
 STATES = ['unigram', 'prefix', 'suffix']
 # Use 18 for simplified respacing (50-50 unigram-bigram) and 17 for standard respacing (slight bigram excess)
 RESPACING = 17
-USE_78_CARD_DECK = False  # Toggle between 52-card and 78-card deck
+USE_78_CARD_DECK = True  # Toggle between 52-card and 78-card deck
 SPACE_REMOVAL_RATE = 0.03  # Fraction of spaces to randomly remove in "respaced" ciphertext output
 UNAMBIGUOUS = True         # Bigram generation avoids creating ambiguous tokens
 MAX_BIGRAM_RETRIES = 10000 # Safety fuse to prevent infinite loops
