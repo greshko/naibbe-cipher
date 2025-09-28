@@ -8,7 +8,7 @@ Cryptologia. https://doi.org/10.1080/01611194.2025.2566408
   
 ## Abstract
 
-In the work represented here and in the associated preprint, I investigate
+In the work represented here and in the associated study, I investigate
 the hypothesis that the Voynich Manuscript (MS 408, Yale University Beinecke
 Library) is compatible with being a ciphertext by attempting to develop a
 historically plausible cipher that can replicate the manuscript’s unusual
@@ -27,7 +27,7 @@ Additional datasets, including the original Microsoft Excel implementations of
 the Naibbe cipher and Voynichesque, can be found at:
 https://zenodo.org/records/16415088
 
-The 24 July 2025 version of the preprint can be accessed at:
+Extensive discussion of a preprint version of this paper can be accessed at:
 https://www.voynich.ninja//thread-4848.html
 
 # License and copyright
