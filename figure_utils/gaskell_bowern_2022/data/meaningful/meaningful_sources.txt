@@ -1,0 +1,222 @@
+Copyrights for comparison corpora are held by their original authors. Materials
+not in the public domain are distributed as excerpts or under permissive
+licenses from the Tanzil Project (tanzil.net); the LOLcat Bible Translation
+Project; the Klingon Language Institute; Biblical Studies Press; the Wikimedia
+Foundation; CC-BY-SA material from Fandom.com; and transcriptions/translations
+by Nico Koomen, Strahinja Ćirić, Marla Korlin Hires, Dr. David K. Jordan, Helge
+Kåre Fauskanger, Dr. Arie de Jong, and Hermenegildo de la Campa. Some materials
+were released for general circulation on the Internet without an explicit
+copyright statement; if you are the author of any of these materials and would
+like your work removed from this collection, please let us know.
+
+Notes on sources are provided below; note that several documents referenced in
+the paper are not included in this repository due to licensing issues, but
+can be reproduced from the information below.
+
+HISTORICAL
+
+Anglo-Saxon - NT
+Complete text of the Hatton Gospels (c. 1200), anonymous online transcription; chapter headings and verse numbers removed
+https://www.lcoggt.org/AngloSaxon/anglosaxon_gospels.htm
+
+Anglo-Saxon - Leechbook
+~1,000 word excerpt from Bald's Leechbook (c. 850), transcribed from pages 20-26 of Cockayne's 1864 edition (with some alphabetical liberties)
+https://archive.org/stream/leechdomswortcun02cock#page/26/mode/2up
+
+Arabic - Quran
+Simple Arabic version with pause marks, sajdah signs, and superscript alefs
+http://tanzil.net/download/
+
+Arabic - Avicenna
+Avicenna's The Canon of Medicine, hugely influential Arabic medical textbook from 1025
+www.t1t.net/book/save.php?action=saveattach&id=181
+
+Coptic - NT
+New Testament in Sahidic Coptic (2nd century), from J Warren Wells' standardized edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+English - NT
+New Testament from the 1611 KJV, verse numbers removed
+http://www.gutenberg.org/cache/epub/10/pg10.txt
+
+English - Secreta Alberti
+A complete English translation (c. 1550) of "The Book of Secrets" falsely attributed to Albertus Magnus, transcribed (to translate it into Dutch) by Nico Koomen; footnotes removed
+http://volkoomenoudeherbariaenmedisch.nl/Albertus%20Magnus,%20book%20of%20secretes.htm
+
+German - NT
+New Testament from the 1545 Luther edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+German - German Herbarius
+First ~13,000 words from the "Gartten der Gesundtheyt" (1485), transcribed (to translate it into Dutch) by Nico Koomen; footnotes removed
+http://volkoomenoudeherbariaenmedisch.nl/Gart%20der%20Gesundheit.htm
+
+Greek - NT
+New Testament from the Textus Receptus, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Greek - De odoribus
+Theophrastus's "On Odors", from his Enquiry into Plants, numbers and brackets removed
+http://penelope.uchicago.edu/Thayer/H/Roman/Texts/Theophrastus/De_odoribus*.html
+
+Latin - NT
+New Testament from the Nova Vulgate, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Spanish - NT
+New Testament from the Sagradas Escrituras (1569), verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Spanish - De Materia Medica
+~1,200 word excerpt transcribed from pages 88-89 of Andres de Laguna's 1570 edition
+http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?cote=00821&do=pdf
+
+French - NT
+New Testament from the 1744 Martin edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Italian - NT
+New Testament from the 1649 Giovanni Diodati edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Portuguese - Coloquios dos simples
+Excerpts (Do Aloes and Do Calamo) from "Coloquios dos simples e drogas da India" (1563); text taken from a reasonably good (though not perfect) OCR of the 1872 reprint, with footnotes, headers, and note numbers removed.
+https://archive.org/details/coloquiosdossimp01ortauoft
+
+Russian - NT - Codex Marianus
+Gospels from the Codex Marianus (11th century), transliterated from Glagolitic into old Cyrillic
+https://web.archive.org/web/20161219105302/http://web.mit.edu/sciric/www/ocs/
+
+Flemish - Cruydeboeck
+Introduction and first 15 chapters from Rembertus Dodonaeus's Cruydeboeck (1554), transcribed (to translate it into Dutch) by Nico Koomen
+http://volkoomenoudeherbariaenmedisch.nl/Rembertus%20Dodonaeus.htm
+
+Flemish - NT - Liesveltbijbel
+Matthew from Jacob van Liesvelt's 1542 translation, transcribed by Nicoline van der Sijs and Hans Beelen, 2010
+http://www.bijbelsdigitaal.nl/liesveltbijbel-1542/
+
+Mayan - Annals of the Cakchiquels
+Project Gutenberg transcription of the Annals of the Cakchiquels (1571), written in Latinized Kaqchikel (in the Mayan language family); letter inserts replaced with approximate Unicode
+http://www.gutenberg.org/files/20775/20775-0.txt
+
+Mayan - Chilam Balam
+~1,000 words retyped from Marla Korlin Hires' transcription of the Chilam Balam of Chan Kan, one of several 17th/18th century books collecting earlier mystical, historical, and practical texts in Latinized Yucatec Maya; this section is mainly astrological
+https://digitallibrary.tulane.edu/islandora/object/tulane:26925
+
+Nahuatl - Nican Mopohua
+Dr. David K. Jordan's spelling-standardized online version of the Huei Tlamahuiçoltica, aka the Nican Mopohua, a 16th or 17th century post-conquest Nahuatl narrative of the appearance of Our Lady of Guadalupe
+http://pages.ucsd.edu/~dkjordan/nahuatl/nican/NicanMopohua.html
+
+Nahuatl - Florentine Codex
+Chapters 15-17 of the Florentine Codex (16th century), about jewels and stoneworking, from Volume 10 of the Dibble & Anderson transcription/translation
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015012402973;view=1up;seq=131
+
+Sanskrit - Charaka Samhita
+Sutrasthana from the Charaka Samhita (pre-2nd century), Sanskrit medical compendium.
+http://vedicreserve.mum.edu/charaka/charaka_sutra_new.html
+
+Sanskrit - Mahabharata
+The first book of the Mahabharata (pre-4th century), Sanskrit epic poem and probably the world's longest poem
+http://bombay.indology.info/mahabharata/welcome.html
+
+
+CONLANGS
+
+Neo-Quenya - NT
+Helge Kåre Fauskanger's translation into Neo-Quenya, full text, verse numbers removed
+http://folk.uib.no/hnohf/nqnt.htm
+
+LOLCat - NT
+Matthew from the LOLCat Bible Translation Project, verses only, verse numbers removed
+http://lolcatbible.com/index.php?title=Main_Page
+
+Klingon - NT
+The complete Gospel of Mark, translated by Nick Nicholas, verse numbers removed
+http://web.archive.org/web/20130403230410/http://www.tlg.uci.edu/~opoudjis/Klingon/mark.new.html
+
+Esperanto - NT
+New Testament from the Unbound Bible Tools, version not specified, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Volapuk - NT
+New Testament from Dr. Arie de Jong's 1952 translation, verse numbers and name brackets removed
+http://personal.southern.edu/~caviness/Volapuk/Diatek_Nulik/
+
+Lojban - Alice in Wonderland
+Ongoing translation project of Alice in Wonderland by the Lojban community
+https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e
+
+Lojban - Science News
+Three short science news articles translated into Lojban by the Lojban community
+https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_meckanpe_tu%27a_lo_balfagma%27a_pe_la_.%C4%AD%C3%A9loston.
+https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino
+https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba
+
+Toki Pona - NT
+The Sermon on the Mount (Matthew 5:1-7:27), public domain.
+http://tokipona.net/tp/janpije/sermononmount.php
+
+Interlingua - NT
+The Gospel of Matthew in Interlingua, translated by Hermenegildo de la Campa, verse numbers removed.
+http://www.interlingua.no/Maththeo.htm
+
+
+MODERN
+
+Arabic - NT
+New Testament from the Smith & Van Dyke version (1865), verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Chinese - NT
+Matthew from the Chinese Union Version, verse numbers removed, converted to pinyin with https://www.chineseconverter.com/en/convert/chinese-to-pinyin
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+English - NT
+NET Bible, full text, verse numbers removed
+
+French - NT
+New Testament from the 1996 edition of the Ostervald translation, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+German - NT
+New Testament from the Eberfelder version (1905), verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Hebrew - NT
+New Testament from an unidentified translation, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Italian - NT
+New Testament from the Riveduta version (1927), verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Maori - NT
+New Testament from the Timothy Mora edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Russian - NT
+Matthew from the NRT version (2000), verse numbers removed
+http://imbf.mobi/MT/mt1.htm
+
+Swahili - NT
+New Testament from an unspecified public domain version, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Wolof - NT
+New Testament from Les Assemblées Evangéliques du Sénégal et la Mission Baptiste du Sénégal, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+http://web.archive.org/web/20040205230608/http://currah.info/www/wolof/index.htm
+
+Tagalog - NT
+New Testament from the 1905 Ang Dating Biblia edition, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Turkish - NT
+New Testament from an unidentified version, verse numbers removed
+https://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+
+Yoruba - NT
+Matthew from the BMY translation, verse numbers and cross-references removed
+http://yorubabible.net/bible-chapter/Matteu-01/
+
+Other modern documents are taken from Wikipedia.

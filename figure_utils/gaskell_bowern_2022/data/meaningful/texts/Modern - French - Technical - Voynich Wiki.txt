@@ -1,0 +1,1344 @@
+Manuscrit de Voynich 
+
+Le manuscrit de Voynich est un livre manuscrit et 
+illustré anonyme, rédigé dans une écriture à 
+ce jour non déchiffrée. 
+
+Malgré les nombreuses tentatives des 
+cryptographes, la nature exacte de ce document, 
+son but et son auteur restent une énigme : 
+s'agit-il d'un herbier, d'un traité d'alchimie ou 
+d'un canular ? Cette ambiguïté a contribué à 
+en faire l'un des documents les plus célèbres de 
+l'histoire de la cryptographie. 
+
+Le livre tire son nom de Wilfrid M. Voynich, qui 
+l'a découvert e12 dans une communauté de 
+jésuites à Frascati, près de Rome. La plus 
+ancienne mention connue de ce manuscrit date de 
+1639, dans une lettre à Athanasius Kircher. 
+Depuis 1969, le manuscrit est conservé sous la 
+cote MS 408 à la Bibliothèque Beinecke de livres 
+rares et manuscrits de l’université Yale aux 
+États-Unis. 
+
+Selon une étude publiée e11 par l'équipe de 
+Greg Hodgins, chercheur de l'Université de 
+l'Arizona et portant sur la datation par le 
+carbone 14 du parchemin, le vélin a été 
+fabriqué entre 1404 et 1438, invalidant de fait 
+toutes les thèses qui depuis un siècle faisaient 
+de Roger Bacon († 1294) l'auteur probable du 
+manuscrit. 
+
+Description 
+
+Le codex est constitué de 234 pages de 15 cm de 
+large et 23 cm de haut. Le manuscrit est en vélin 
+(peau de veau mort-né, particulièrement fine, 
+travaillée en parchemin de qualité supérieure) 
+et 13 folios sont manquantsa d'après la 
+pagination. Il semble que lors de son acquisition 
+par Voynich e12, le livre fût déjà incomplet. 
+Une plume d'oie a été utilisée pour le texte et 
+le contour des figures, dont certaines sont 
+rehaussées d'une manière parfois grossière. Ces 
+enluminures ont été faites après la rédaction 
+du texte, sauf dans le cas des dessins de la 
+section botanique. 
+
+Résumé 
+
+À l'origine le livre contenait 262 pages, 
+réparties en vingt cahiers. Il y a dix-huit 
+cahiers, contenant généralement 8 folios, mais 
+quelquefois moins ou plusb. 225 pages mélangent 
+texte et illustrations (brun, vert, bleu et dans 
+quelques cas rouge et jaune). 33 pages ne 
+contiennent que du texte. La dernière page 
+contient uniquement des clés. 
+
+Histoire 
+
+Malgré sa fabrication au tout début du XVe 
+siècle, le livre n'apparaît dans l'histoire que 
+deux siècles plus tard. Dans sa lettre du 19 
+août 16651 à l'attention d'Athanasius Kircher, 
+Jan Marek Marci indique que le livre avait été 
+acheté par Rodolphe II du Saint-Empire († 
+1612),, ce qui eut certainement lieu avant son 
+abdication e11, soit 55 ans avant la lettre (en 
+latin) de Marci : 
+
+« Le précédent propriétaire de ce livre [Georg 
+Baresch] demanda une fois votre opinion par 
+lettre, copiant et vous envoyant une partie du 
+livre, lequel croyait que vous étiez capable de 
+lire le reste, mais il refusa, jusqu'à présent, 
+d’envoyer l’original. [...] Docteur Raphaël 
+[Mnishovsky ou Missowsky], tuteur en langue 
+bohémienne de Ferdinand III, alors roi de 
+Bohème, me raconta que ce livre avait été 
+cédé à l’empereur Rudolph (Rodolphe II) par 
+un inconnu et pour la somme de six cents ducats. 
+Il pensa que l’auteur était Roger Bacon, 
+l'Anglais. Sur ce point, je suis sans avis ; 
+c’est à vous de nous dire quelle opinion nous 
+pourrions avoir. » 
+
+— Marci, Lettre à Kircher datée du 19 août 
+1665. 
+
+Georg Baresch 
+
+Néanmoins, le propriétaire officiel le plus 
+ancien de ce manuscrit a été trouvé grâce à 
+la correspondance de Kircher. C'était un certain 
+Georg Baresch, un alchimiste qui vivait à Prague 
+au XVIIe siècle. Apparemment Baresch était lui 
+aussi perplexe à propos de ce « sphinx » qui a 
+« pris de la place inutilement dans sa 
+bibliothèque » pendant des années. Baresch 
+apprit qu'Athanasius Kircher, un savant jésuite 
+issu du collège romain, avait publié un 
+dictionnaire copte (éthiopien) et déchiffrait 
+les hiéroglyphes égyptiens. Il lui envoya une 
+copie d'une partie du manuscrit à Rome par deux 
+fois (1637 et 1639), demandant des indices. Sa 
+lettre destinée à Kircher datant de 1639, qui a 
+été retrouvée récemment par René Zandbergen 
+et publiée e102, est la première allusion au 
+manuscrit, trouvée jusqu'alors. 
+
+Extrait de la seconde lettre de Georgius Baresch 
+à Athanase Kircher (1639),, : 
+
+« […] De tous les dessins de plantes, dont il 
+existe un grand nombre dans le codex, et d'images 
+variées, étoiles et autres portant l'apparition 
+du symbolisme chimique, c'est ma conjecture que 
+tout cela est médical, la branche la plus 
+bénéfique de l'apprentissage pour la race 
+humaine à part le salut des âmes. Cette tâche 
+n'est pas indigne d'une grande intelligence. 
+Après tout, cette chose ne peut pas être pour 
+les masses qui explique les précautions que 
+l'auteur a prises afin d'en garder des ignorants 
+incultes. En fait, il est facilement concevable 
+qu'un homme de qualité soit allé en Orient en 
+quête de la vraie médecine (il aurait compris 
+que la médecine populaire ici en Europe est de 
+peu de valeur). Il aurait acquis les trésors de 
+la médecine égyptienne partie de la littérature 
+écrite et aussi de s'associer avec des experts de 
+l'art, les a ramenés avec lui et les a enterrés 
+dans ce livre, dans le même manuscrit. Cela est 
+d'autant plus plausible que le volume contient des 
+dessins de plantes exotiques qui ont échappé à 
+l'observation ici, en Allemagne. […] Je joins 
+ici une ou deux lignes de l'écriture inconnue 
+pour raviver votre mémoire de celui-ci, après 
+avoir envoyé un dossier de caractères 
+semblables. […] » 
+
+— Georgius Baresch, 27 avril 1639. 
+
+On ne sait pas si Kircher a répondu, mais il 
+semblerait qu'il s'intéressa assez au sujet pour 
+tenter d'acquérir le livre, que Baresch refusa 
+apparemment de montrer. 
+
+Marci et Athanasius Kircher 
+
+Après la mort de Baresch, le manuscrit passa à 
+son ami Jan Marek Marci (Johannes Marcus Marci), 
+alors proviseur à l'Université Charles de 
+Prague, physicien, mathématicien, orientaliste ; 
+il avait travaillé avec Kircher à Rome. Il 
+était officiellement physicien de l'Empereur 
+Ferdinand III3. Il envoya le livre à Kircher, son 
+ami de longue date et correspondant. La lettre 
+d'explication à Athanase Kircher de Marci (1666) 
+est encore jointe au manuscrit1. La lettre 
+prétend entre autres que le manuscrit fut, à 
+l'origine, acheté pour 600 talers d’orc par 
+l'Empereur Rodolphe II qui pensait que l'ouvrage 
+était le fruit du travail de Roger Bacon. 
+
+Collège romain 
+
+L'hypothèse a été avancée que le manuscrit 
+serait tombé dans les mains de la reine Christine 
+de Suède à l'occasion de la chute de Prague e48 
+et qu'elle aurait récupéré ensuite le manuscrit 
+pour l'emporter plus tard à Rome, après son 
+abdication. Le cardinal Odescalchi, son 
+légataire, l'aurait par la suite confié à la 
+bibliothèque du Collège romain4. On perd ensuite 
+la trace du livre pendant deux siècles, mais 
+selon toute vraisemblance, il était conservé 
+comme le reste de la correspondance de Kircher, 
+dans la bibliothèque du Collège romain, actuelle 
+Université pontificale grégorienne. Il y resta 
+probablement jusqu'à l'invasion de la ville par 
+les troupes de Victor-Emmanuel II d'Italie, qui 
+annexa les États pontificaux e70. Le nouveau 
+gouvernement italien décida de confisquer 
+beaucoup de biens de l'Église, notamment la 
+bibliothèque du Collège romain. D'après les 
+recherches de Xavier Ceccaldi et d'autres, de 
+nombreux livres avaient été transférés à la 
+hâte, juste avant ces événements dans les 
+bibliothèques privées de ses facultés – ces 
+dernières avaient été exemptes des 
+confiscations. La correspondance de Kircher se 
+trouvait parmi ces livres et, apparemment, le 
+manuscrit de Voynich aussi, vu qu'il portait 
+encore l'ex-libris de Petrus Beckx († 1887), 
+Supérieur général de la Compagnie de Jésus et 
+proviseur de l'université en même temps. 
+
+La bibliothèque privée de Beckx fut déménagée 
+à la Villa Mondragone, Frascati, un grand palais 
+près de Rome, acheté par la Compagnie de Jésus 
+e66. 
+
+Wilfrid Voynich 
+
+Vers 1912, le collège romain décida de vendre, 
+très discrètement, quelques-uns de ses biens. 
+Wilfrid Voynich acheta trente manuscrits, parmi 
+lesquels celui qui porte maintenant son nom. 
+Après sa mort e30, sa veuve, la romancière Ethel 
+Lilian Voynich (née Boole, fille du 
+mathématicien) hérita du manuscrit. Elle mourut 
+e60 et laissa le manuscrit à son amie proche, 
+Anne Nill. E61, Anne Nill vendit le livre au 
+marchand de livres anciens Hans P. Krausd. 
+Incapable de trouver un acheteur, Kraus en fit don 
+à l'université Yale e69. 
+
+Analyses 
+
+Chimiques et nucléaires 
+
+Une étude publiée e11 par l'équipe de Greg 
+Hodgins de l'Université de l'Arizona, sur le 
+parchemin support du texte, permet d'affirmer 
+qu'il a été fabriqué dans un délai 
+relativement court, entre 1404 et 1438,. L'équipe 
+de Greg Hodgins a utilisé la datation par le 
+carbone 14 pour obtenir cet intervalle 
+chronologique. Cette estimation permet seulement 
+d'estimer la date à laquelle sont morts les veaux 
+ayant servi à fabriquer le parchemin. Cette 
+étude, qui a analysé quatre éléments distincts 
+de l'œuvre, tend à prouver que l'ensemble du 
+manuscrit a été rédigé à la même époque. 
+
+Quant aux encres utilisées pour le texte, elles 
+ne contiennent pas assez de carbone pour permettre 
+une datation (les techniques de séparation du 
+parchemin et de l'encre sont à ce jour 
+expérimentales). L'hypothèse d'un stock de 
+parchemins vierges datant du XVe siècle utilisé 
+aux fins de produire un traité apocryphe n'est 
+donc pas à écarter. 
+
+Cependant, une étude du McCrone Research 
+Institute, de Chicago sur l'encre confirme que les 
+pigments sont compatibles avec l'époque. Greg 
+Hodgins du McCrone Research Institute affirme 
+qu'« avec un tel laps de temps étroit, nous 
+avons effectivement éliminé la plupart des 
+théories sur les rédacteurs probables. Le 
+résultat de la datation au carbone permet 
+également de nous concentrer sur ce type de 
+connaissances scientifiques et de cryptage autour 
+de cette période. » 
+
+Texte 
+
+Le texte est clairement écrit de gauche à 
+droite, avec une marge à droite quelque peu 
+inégale. Les sections les plus longues sont 
+divisées en paragraphes avec parfois des « puces 
+» dans la marge de gauche. Il n'y a aucun signe 
+évident de ponctuation. Le ductus (l'ordre et la 
+direction selon lesquels on trace les traits qui 
+composent la lettre) est fluide ce qui laisse 
+penser que le scribe comprenait ce qu'il écrivait 
+au moment de la rédaction. Le manuscrit ne donne 
+pas l'impression que les caractères aient été 
+apposés un par un, caractéristique qui apparaît 
+dans le cas d'un chiffrement compliqué. 
+L'écriture n'est toutefois pas toujours soignée 
+: par endroit, l'auteur doit resserrer les 
+interlignes par manque de place. Ceci est 
+particulièrement visible dans la partie « 
+recettes » avec un texte ondulé qui dénote que 
+le scribe n'était probablement pas un copiste « 
+professionnel ». 
+
+Le texte comprend plus de 170 000 glyphes, 
+normalement séparés les uns des autres par de 
+fins interstices. La plupart de ces glyphes sont 
+écrits avec un ou deux traits. Les experts 
+restent divisés concernant l'alphabet utilisé, 
+car certains des glyphes sont similaires. On pense 
+toutefois que l'alphabet du manuscrit de Voynich 
+comprend entre 20 et 30 signes. Certains 
+caractères inhabituels apparaissent ici et là : 
+on en dénombre une douzaine de ce type. 
+
+Des espacements plus larges divisent le texte e 
+919 mots, de taille variable. Il semble que le 
+texte suive des règles phonétiques ou 
+orthographiques : certains caractères doivent 
+apparaître dans chaque mot (à l'instar des 
+voyelles en français), certains caractères n'en 
+suivent jamais d'autres, d'autres peuvent 
+apparaître en double. 
+
+Les symboles utilisées dans le manuscrit de 
+Voynich. 
+
+Retouches 
+
+L'informaticien Jorge Stolfi, de l'Université 
+d'État de Campinas au Brésil, a souligné que 
+certaines parties du texte et des dessins ont 
+été retouchés, en utilisant de l'encre plus 
+foncée sur un trait plus pâle. La preuve de ces 
+modifications se trouve, par exemple, sur les fo 
+1r, fo 3v, fo 26v, fo 57v, fo 67r2, fo 71r, fo 
+72v1, fo 72v3 et fo 73r. 
+
+Analyse fréquentielle 
+
+Une analyse fréquentielle révèle des 
+caractéristiques semblables aux langues 
+naturelles5. Par exemple, la fréquence des mots 
+suit la loi de Zipfe et l'entropie (quantité 
+d'information) de chaque mot s'élève à 10 bits 
+ce qui est similaire aux textes en anglais ou en 
+latin. 
+
+Certains mots n'apparaissent que dans des parties 
+précises ou sur quelques pages, d'autres sont 
+disséminés dans tout le manuscrit. Les 
+répétitions au sein des légendes des figures 
+sont rares. Dans la section « herbier », le 
+premier mot de chaque page n'apparaît nulle part 
+ailleurs, il pourrait donc s'agir du nom de la 
+plante illustrée. 
+
+Sur d'autres points, le langage du manuscrit de 
+Voynich diffère sensiblement des langues 
+européennes. Par exemple, il n'y a pratiquement 
+aucun mot avec plus de dix symboles, et presque 
+aucun mot de moins de trois lettres. La 
+distribution des lettres à l'intérieur d'un mot 
+est atypique pour l'Occident : certains 
+caractères n'apparaissent qu'au début d'un mot, 
+d'autres seulement au milieu, et d'autres 
+seulement à la fin (sans que l'on puisse établir 
+s'il s'agit de variantes positionnelles d'une 
+même lettre, ou de lettres uniques n'existant 
+qu'en certaines positions). Parmi les deux 
+principales dérivations de l'alphabet phénicien, 
+une disposition similaire se retrouve couramment 
+dans l'alphabet araméen et ses dérivés (langues 
+sémitiques) comme l'hébreu et l'arabe (certaines 
+lettres y changent de dessin selon leur position 
+dans le mot), mais jamais (avec l'exception en 
+grec du bêta et du sigma) dans l'alphabet grec et 
+ses dérivés (langues indo-européennes) comme le 
+latin et le cyrillique. 
+
+Le texte semble être plus redondant que la 
+plupart des langues européennes, certains mots 
+apparaissent parfois trois fois à la suite. Les 
+mots qui se différencient par une seule lettre 
+sont présents avec une fréquence inhabituelle. 
+
+Auteurs multiples 
+
+Prescott Currier, un cryptographe de l'US Navy qui 
+travaillait sur le manuscrit dans les années 
+1970, observa que les pages de la partie herbier 
+pouvaient être séparées en deux groupes, A et 
+B, avec chacun des propriétés statistiques et 
+des écritures différentes. Il en conclut que le 
+manuscrit de Voynich était le fruit du travail de 
+plusieurs auteurs utilisant des dialectes et des 
+conventions d'orthographe différentes, mais 
+partageant le même manuscrit. 
+
+Cependant, des études récentes ont remis en 
+question ces conclusions6. Un expert en 
+écriture[Qui ?] qui examina le livre ne vit 
+qu'une seule écriture dans l'ensemble du 
+manuscrit. Quand toutes les parties sont 
+examinées, on peut constater une transition 
+graduelle du style entre les différents feuillets 
+du manuscrit, avec les deux groupes A et B 
+repérés par Currier comme extrémités de cette 
+évolution. Donc, ses observations sont 
+probablement plutôt le résultat de l'écriture 
+de ces deux sections de l’herbier à des 
+périodes très différentes, ou bien peut-être 
+faut-il faire une distinction, entre celui qui a 
+composé le texte, et celui qui l'a écrit sur le 
+manuscrit de Voynich. Ainsi, la discrimination 
+statistique en deux groupes (A et B) pourrait 
+être occasionnée par la traduction de textes 
+originaux provenant de différents auteurs. 
+
+Illustrations 
+
+Comme l'alphabet du manuscrit ne ressemble à 
+aucun autre et que le texte est toujours 
+indéchiffrable, les seuls signes reflétant son 
+ancienneté et son origine sont les illustrations, 
+spécialement les robes et les coiffures des 
+personnages, ainsi que deux châteaux apparaissant 
+dans les schémas. Ils sont caractéristiques du 
+style européen et, se basant sur ce fait, les 
+experts datent le livre sur une période comprise 
+entre 1450 et 1520. Cette évaluation est 
+confortée par des indices complémentaires de 
+l'analyse carbone 14, effectuée e11. 
+
+Les illustrations dans le manuscrit donnent peu 
+d'indications sur son contenu exact, mais 
+permettent d'identifier six sections, consacrées 
+à des sujets différents, avec un style qui 
+varie. Excepté pour la dernière section dont le 
+contenu est entièrement textuel, presque toutes 
+les pages contiennent au moins une illustration. 
+C'est en se basant sur ces illustrations que les 
+chercheurs ont déterminé l'articulation. Les 
+sections et leur nom contemporain sont : 
+
+Herbier : 112 pages (en trois endroits, total 130 
+pages et 126 plantes). Chaque page contient une 
+plante, parfois deux, accompagnées de 
+paragraphes. Le tout est présenté selon le style 
+européen des herbiers de l'époque. Certaines 
+parties sont des agrandissements et des versions 
+améliorées des esquisses présentes dans la 
+partie pharmacologie (l'avant-dernière section). 
+
+Astronomie : 34 pages dont 26 de dessins. Des 
+diagrammes d'astres comme des soleils, des lunes 
+et des étoiles suggèrent que le contenu porte 
+sur l'astrologie et l'astronomie. Une série de 12 
+diagrammes représente les symboles des 
+constellations du Zodiaque (deux poissons pour la 
+constellation des Poissons, un Taureau, un soldat 
+avec une arbalète pour le Sagittaire, etc.). 
+Chaque symbole est entouré d'exactement 30 
+figures féminines, la plupart nues, qui portent 
+une étoile avec une légende. Les deux dernières 
+pages de cette section, le Verseau et le 
+Capricorne, ont été perdues. Quant au Bélier et 
+au Taureau, les pages qui leur sont consacrées 
+sont divisées en deux paires de schémas avec 15 
+étoiles chacun. Certains de ces dessins sont sur 
+des pages qui peuvent être dépliées. 
+
+Biologie ou balnéothérapie : 19 pages et 28 
+dessins. Un texte dense et continu parsemé de 
+dessins qui représentent principalement des 
+femmes nues se baignant dans des bassins ou 
+nageant dans un réseau de tubes élaboré. La 
+forme d'une partie de cette plomberie fait penser 
+à des organes. Certaines de ces femmes portent 
+des couronnes. 
+
+Cosmologie : 4 pages. Des diagrammes circulaires 
+à la signification obscure. Cette section 
+possède également des dépliants. L'un d'entre 
+eux s'étale sur six pages et contient des cartes 
+de 9 « îles » reliées par des chemins avec la 
+présence de châteaux et de ce que l'on estime 
+être un volcan. 
+
+Pharmacologie : 34 pages. Plusieurs dessins de 
+plantes avec une légende. Les figures décrivent 
+des parties des végétaux (racines, feuilles, 
+etc.) ce qui fait penser à un guide pour un 
+apothicaire. Des objets dans les marges 
+ressemblent à des pots utilisés par les 
+pharmaciens de l'époque, les pages sont 
+clairsemées avec seulement quelques paragraphes 
+de texte. 
+
+Recettes : 23 pages. 324 paragraphes assez courts 
+au texte dense, chacun étant marqué d'une puce 
+en forme de fleur ou d'étoile. 
+
+Hypothèses sur le contenu et le but 
+
+L'impression générale dégagée par le manuscrit 
+suggère qu'il devait servir de pharmacopée ou de 
+référence pour de la médecine médiévale. La 
+présence d'étranges illustrations a alimenté 
+les théories les plus folles au sujet des 
+origines de l'ouvrage, son contenu et le but 
+recherché par l'auteur. Il serait impossible de 
+décrire ici l'ensemble des possibilités 
+évoquées à ce sujet, mais certaines méritent 
+d'être mentionnées : 
+
+Herbier 
+
+Plantes représentées 
+
+La première section du livre est visiblement 
+consacrée au règne végétal avec des fiches 
+comportant des illustrations de plantes. Seuls 
+quelques spécimens ont été formellement 
+identifiés malgré des recherches dans les autres 
+herbiers de l'époque. Parmi les plantes les plus 
+faciles à reconnaître, on trouve une pensée 
+violette et une fougère. 
+
+Ces schémas de la partie « biologie » du 
+manuscrit sont des versions plus fines de ceux 
+présents dans la partie « pharmacologie ». Les 
+zones manquantes ont été comblées par une 
+multitude de détails improbables. En fait, la 
+plupart de ces plantes semblent être des hybrides 
+: des racines d'une espèce connectées à la tige 
+et les feuilles d'une autre et finalement des 
+fleurs provenant d'une troisième espèce. 
+
+Le botaniste Hugh O'Neill (1894–1969) e449 
+pensait qu'une des illustrations (fo 93ro ) 
+représentait un Helianthus annuus, le tournesol 
+que nous connaissons de nos jours et qui provenait 
+d'Amérique, apporté en Espagne e939. Cette 
+indication permettrait de situer avec plus de 
+précision la date à laquelle a été fabriqué 
+le manuscrit (c'est-à-dire après 1493). Mais la 
+ressemblance avec la plante réelle est limitée, 
+surtout si la figure est comparée avec des 
+espèces sauvages. De plus, l'échelle de 
+l'esquisse n'étant pas connue, il est difficile 
+d'affirmer qu'il s'agit bien d'un tournesol et non 
+pas d'une espèce similaire de la vaste famille 
+des Asteraceae (l'artichaut, la marguerite ou 
+encore les pissenlits) qui est présente partout 
+dans le monde. 
+
+Plus récemment, le botaniste et chercheur à 
+l'Université du Delaware, Arthur Tucker a publié 
+plusieurs articles attribuant la provenance de 37 
+plantes sur les 303 différentes du manuscrit, au 
+Mexique (en comparant celui-ci au Codex 
+Cruz-Badianus daté de 1552 et au Codex Osuna, 
+1566). En outre, la langue utilisée serait le 
+nahuatl, une langue aztèque indigène, éteinte 
+dans sa forme originelle. Tucker a créé un 
+groupe interdisciplinaire à l'université du 
+Delaware pour la rédaction d'un livre sur le 
+sujet11. 
+
+Herbier astrologique 
+
+Les considérations astrologiques ont souvent 
+joué un grand rôle dans la cueillette des 
+herbes, la saignée et d'autres procédures 
+médicales répandues à l'époque supposée de la 
+rédaction du texte (voir, par exemple, les livres 
+de Nicholas Culpeper). Cependant, à part les 
+signes zodiacaux évidents et un schéma semblant 
+représenter les planètes, personne n'a encore 
+été capable d'interpréter les illustrations au 
+moyen des traditions astrologiques connues 
+(européennes ou autres). 
+
+Pseudo-herbier alchimique 
+
+Sergio Toresella, expert en herbiers anciens, 
+montre que le manuscrit de Voynich pouvait être 
+un « herbier alchimique » qui n'aurait rien à 
+voir avec l'alchimie, mais serait un 
+pseudo-herbier, illustré par des images 
+inventées par un charlatan pour impressionner ses 
+clients. L'ouvrage serait une imitation de livre 
+médical comprenant différentes sections 
+(astrologie, botanique, balnéothérapie, etc.) et 
+portant un texte volontairement mystérieux12. 
+
+Apparemment, une petite industrie familiale 
+existait à cette époque, produisant ce genre de 
+littérature quelque part au nord de l'Italie, 
+peut-être la région de Venise,. Néanmoins, ces 
+livres sont assez différents du manuscrit de 
+Voynich dans le style et le format et sont 
+rédigés en langage courant. 
+
+Microscopes et télescopes 
+
+Un dessin circulaire dans la partie astronomique 
+montre un objet de forme irrégulière avec des 
+extensions courbées, dont certaines ont été 
+interprétées comme des images de galaxie, 
+visibles seulement à l'aide d'un télescope (en 
+fait cette image est inspirée par une enluminure 
+qui figure dans le Traité de la sphère de Nicole 
+Oresme de 1400-1420, fo 23r). 
+
+D'autres dessins ont été interprétés comme 
+représentant des cellules vues à travers un 
+microscope. Cela suggérerait un travail plus 
+moderne que les origines supposées du manuscrit 
+ne pourraient le permettre. Cette ressemblance 
+doit cependant être considérée avec une 
+certaine circonspection : un examen attentif 
+montre en effet que la partie centrale de cette « 
+galaxie » ressemble plutôt à une flaque d'eau. 
+
+Alchimie 
+
+Comparaison avec les livres d'alchimie 
+
+Les bassins et les tuyaux de la partie biologie 
+semblent indiquer une relation avec l'alchimie, 
+qui serait utile si le livre contenait des 
+instructions concernant la préparation de 
+composants médicaux. Cependant, les livres 
+d'alchimie de cette période partagent le même 
+langage pictural où les processus et matériaux 
+sont représentés par des images spécifiques 
+(aigle, crapaud, homme dans une tombe, couple au 
+lit, etc.) ou des symboles textuels standards 
+(cercle avec une croix, etc.). Aucun de ceux-ci 
+n’apparaît de façon convaincante dans le 
+manuscrit de Voynich. 
+
+Livre de recettes à usage médical 
+
+Une hypothèse de Nicholas Gibbs identifie le 
+manuscrit comme un livre de recettes destinées à 
+un usage médical. Selon un article paru dans The 
+Atlantic le 10 septembre 2017, une partie du 
+travail de Gibbs n'est pas nouvelle et le reste 
+n'a pas convaincu les experts. 
+
+Hypothèses sur le langage 
+
+Plusieurs hypothèses ont été avancées 
+concernant le « langage » utilisé par le 
+manuscrit de Voynich. 
+
+Études cryptologiques 
+
+Antoine Casanova (1999) explique qu'il manque la 
+certitude qu'il y ait une solution, que le langage 
+utilisé n'est pas connu, que le système de 
+codage n'est pas connu, ni l'époque, ni la 
+personne qui a procédé à l'opération : « ce 
+manuscrit décrit l’ensemble des problématiques 
+qu’un cryptanalyste rencontre dans un cas 
+extrême d’analyse13. » 
+
+Codage lettre-à-lettre 
+
+Selon cette hypothèse, le manuscrit de Voynich 
+est un texte écrit dans une langue européenne, 
+mais dont le sens a été rendu intentionnellement 
+caché en le codant au moyen d'un chiffrement. Cet 
+algorithme opère lettre par lettre, et produit un 
+texte utilisant « l'alphabet » du manuscrit de 
+Voynich. 
+
+C'est cette hypothèse de travail qui a été 
+utilisée dans la plupart des tentatives de 
+déchiffrement effectuées au XXe siècle, dont 
+l'une a été conduite par le cryptologue William 
+F. Friedman – célèbre pour avoir percé le 
+code des messages japonais pendant la Seconde 
+Guerre mondiale. Friedman était à la tête d'une 
+équipe informelle de la NSA au début des années 
+1950, lorsqu'il a travaillé sur le manuscrit. 
+
+Les chiffrements simples par substitutions peuvent 
+être exclus car ils sont trop faciles à casser. 
+Les efforts se sont donc portés sur des 
+chiffrements polyalphabétiques, inventés par 
+Alberti dans les années 1460. Le chiffre de 
+Vigenère, qui fait partie de cette famille, 
+aurait pu être utilisé et renforcé par 
+l'utilisation de symboles nuls ou équivalents, le 
+réarrangement de lettres, des fausses coupures de 
+mot, etc. 
+
+Certaines personnes ont élaboré une théorie 
+selon laquelle les voyelles avaient été 
+supprimées avant le chiffrement. Plusieurs 
+solutions de déchiffrement utilisant cette 
+théorie ont été proposées, mais aucune n'a 
+été largement acceptée : les textes ainsi 
+déchiffrés dépendent de tant de conjectures 
+que, en utilisant ces techniques, on pourrait 
+reconstituer n'importe quel message à partir 
+d'une chaîne de symboles pris de manière 
+aléatoire. 
+
+Le principal argument en faveur de l'hypothèse du 
+codage lettre-à-lettre est que l'utilisation d'un 
+alphabet étrange par un auteur européen 
+s'explique difficilement, sauf dans la volonté de 
+masquer l'information. La date estimée du 
+manuscrit coïncide approximativement avec la 
+naissance de la cryptologie en tant que discipline 
+systématique, mais la datation par carbone 14 
+date le manuscrit entre 1404 et 1438, retirant 
+tout valeur à l'argument sur Roger Bacon 
+(1214–1294) qui connaissait les techniques de 
+chiffrement. 
+
+Cependant, un chiffrement polyalphabétique 
+devrait normalement détruire les 
+caractéristiques statistiques « naturelles » 
+observées dans le manuscrit de Voynich, telles 
+que la loi de Zipf. De plus, bien que les 
+chiffrements polyalphabétiques aient été 
+inventés vers 1467, les variantes ne devinrent 
+populaires qu'au XVIe siècle, c'est-à-dire 
+après la date estimée du manuscrit de Voynich. 
+
+Chiffrement par dictionnaire 
+
+Selon cette théorie, les « mots » du manuscrit 
+de Voynich seraient codés de telle sorte qu'il 
+faille les retrouver grâce à un dictionnaire ou 
+un tableau de chiffrement. Le principal indice 
+concordant est que la structuration et la 
+distribution statistique de ces mots sont 
+similaires aux nombres romains. Ceux-ci seraient 
+un choix naturel pour le code utilisé. Les livres 
+codés ne sont cependant viables que pour de 
+courts messages à cause de leur encombrement et 
+leur utilisation peu commode : chaque écriture ou 
+lecture d'un mot demande un parcours du 
+répertoire. D'autres théories remettent en cause 
+« l'évidence » du choix des nombres romains. 
+
+Stéganographie 
+
+Cette théorie met en avant l'hypothèse qu'une 
+bonne partie du texte n'ait aucun sens mais 
+dissimule des informations cachées dans des 
+détails passant inaperçus. Par exemple, la 
+deuxième lettre de chaque mot ou le nombre de 
+lettres de chaque ligne peuvent avoir une 
+signification, le reste étant inutile. Cette 
+technique nommée stéganographie est très 
+ancienne et était décrite, entre autres, par 
+Johannes Trithemius e99. Il fut aussi suggéré de 
+déchiffrer le texte grâce à une grille de 
+Cardan quelconque. 
+
+Cette théorie est complexe à prouver (on peut 
+obtenir un résultat probant sans avoir trouvé la 
+bonne méthode) mais aussi à réfuter, puisque ce 
+genre de code peut être arbitrairement difficile 
+à « casser ». Un argument contre cette 
+hypothèse est que l'aspect « texte chiffré » 
+de l'ensemble du manuscrit va à l'encontre de 
+l'objectif premier de la stéganographie, à 
+savoir cacher l'existence même du message secret. 
+
+D'autres ont suggéré que la signification du 
+texte serait codée dans la longueur ou la forme 
+du trait d'écriture. Des exemples existent d'une 
+telle méthode contemporaine à cette époque, 
+utilisant la forme des caractères (italique 
+contre droit) pour cacher des informations. 
+Cependant, après examen, le manuscrit de Voynich 
+semble bien avoir été rédigé d'une écriture 
+naturelle, influencée par les reliefs de la 
+surface de vélin. 
+
+Langage codé 
+
+Chiffrement visuel 
+
+James Finn a proposé dans son livre Pandora's 
+Hope (2004) que le manuscrit de Voynich serait en 
+fait de l'hébreu visuellement codé. Une fois les 
+lettres de Voynich transcrites correctement, avec 
+l'EVA comme guide, beaucoup de mots peuvent être 
+lus comme des mots hébreux qui se répètent avec 
+des distorsions pour troubler le lecteur. Par 
+exemple, le mot AIN du manuscrit est un mot 
+hébreu pour « œil » et il apparaît aussi sous 
+d'autres formes comme « aiin » ou « aiiin », 
+pour donner l'impression qu'il s'agit de mots 
+différents alors qu'en fait ils sont identiques. 
+Un argument en faveur de cette méthode est 
+qu'elle expliquerait le manque de succès des 
+autres chercheurs basant leurs méthodes sur des 
+approches plus mathématiques. L'argument 
+principal contre l'hypothèse du chiffrement 
+visuel est que cela induit une accablante charge 
+de travail pour le déchiffrement du texte qui 
+induit de multiples interprétations visuelles. Il 
+serait difficile de séparer le sens du texte 
+d'origine de son interprétation et de l'influence 
+du « décrypteur ». 
+
+Langage et linguistique 
+
+Langage construit 
+
+La structure singulière des « mots » du 
+manuscrit de Voynich a mené William F. Friedman 
+et John Tiltman (1968)14, indépendamment l'un de 
+l'autre, à la conjecture que le texte serait le 
+résultat de l'utilisation d'un langage inventé 
+de toutes pièces, spécifiquement philosophique. 
+Dans les langages de ce style, le vocabulaire est 
+organisé selon un système de catégories, si 
+bien qu'on peut déduire le sens général d'un 
+mot à partir de sa séquence de lettres. Par 
+exemple, dans la langue moderne Ro, bofo- est la 
+catégorie des couleurs et tous les mots 
+commençant par ce préfixe désignent en fait une 
+couleur : ainsi rouge est bofoc et jaune est 
+bofof. Il s'agit ici d'une version poussée à 
+l'extrême de certaines méthodes de 
+classification des livres utilisées par les 
+bibliothèques et qui disent, P pour langage et 
+littérature, PA pour langue grecque et latin, PC 
+pour les langues romanes… 
+
+Ce concept est assez ancien, comme l'atteste 
+Philosophical Language de John Wilkins (1668). 
+Dans la plupart des exemples connus, les 
+catégories sont subdivisées par ajout de 
+suffixes. En conséquence, un texte lié à un 
+thème particulier contiendrait beaucoup de mots 
+comportant des préfixes similaires ou communs. 
+Par exemple, les noms de toutes les plantes 
+commenceraient par le même préfixe et il en 
+irait de même pour les maladies, etc. Cette 
+caractéristique pourrait expliquer la nature 
+répétitive du texte du manuscrit. 
+
+Cependant, personne n'a été en mesure d'établir 
+des correspondances entre des significations 
+évidentes ou plausibles et certains préfixes ou 
+suffixes du manuscrit de Voynich. De plus, les 
+exemples de langages philosophiques connus 
+apparaissent postérieurement au manuscrit, 
+c'est-à-dire seulement vers le XVIIe siècle. 
+
+Langage naturel exotique 
+
+Le linguiste français Jacques Guy (1991)15 a 
+suggéré que le manuscrit de Voynich pouvait 
+être un langage naturel exotique, écrit 
+ordinairement avec un alphabet inventé. La 
+structure des mots est en fait assez similaire aux 
+langues de l'Orient et d'Asie centrale, 
+principalement le sino-tibétain (chinois, 
+tibétain et birman), l'austroasiatique 
+(vietnamien, khmer…) et peut-être aussi le tai 
+(thaï, lao, etc.). Dans beaucoup de ces langages, 
+les « mots » n'ont qu'une syllabe ; et les 
+syllabes ont une structure plus riche, incluant 
+des tons. 
+
+Cette théorie est historiquement vraisemblable. 
+Bien que ces langues possédassent des manuscrits, 
+ceux-ci étaient notoirement difficiles à 
+comprendre par les Occidentaux ; ce qui motivait 
+l'invention de plusieurs alphabets phonétiques. 
+La plupart utilisaient les lettres latines mais 
+quelquefois des alphabets inventés. Bien que ces 
+exemples connus soient bien postérieurs à la 
+période supposée de l'origine du manuscrit de 
+Voynich, l'histoire enregistre des centaines 
+d'explorateurs et de missionnaires qui ont pu 
+l'avoir écrit, même avant le voyage de Marco 
+Polo au XIIIe siècle, mais plus particulièrement 
+après que Vasco de Gama eut découvert la route 
+de l'Orient par la mer e99. L'auteur du manuscrit 
+aurait pu être un natif d'Asie de l'Est vivant en 
+Europe, ou éduqué dans une mission européenne. 
+
+L'argument principal de cette théorie est qu'elle 
+serait cohérente avec toutes les propriétés 
+statistiques du texte du manuscrit de Voynich 
+testées jusqu'à maintenant, incluant les mots 
+doubles et triples (trouvés aussi fréquemment 
+dans des textes chinois ou vietnamiens). Cela 
+explique aussi le manque apparent de nombres et de 
+traits caractéristiques de syntaxe occidentale 
+(comme les articles et les copules), et les 
+illustrations au graphisme général 
+impénétrable. Un autre point concordant est la 
+présence des deux grands symboles rouges de la 
+première page, qui ont été comparés à un 
+titre de livre à la chinoise, écrit de haut en 
+bas et mal recopié. De même, l'apparente 
+division de l'année e0 degrés (plutôt que 365 
+jours), en groupes de 15 et partant des Poissons, 
+est un trait relatif au calendrier agricole 
+chinois (jie q`i). 
+
+L'argument principal des détracteurs de cette 
+théorie est que personne (y compris des savants 
+de l'Académie des sciences chinoise de Pékin) 
+n'aurait trouvé d'exemple probant de symbolisme 
+ou de science asiatique dans les illustrations du 
+manuscrit. 
+
+Fi03, le Polonais Zbigniew Banasik a proposé une 
+traduction incomplète de la première page du 
+manuscrit en postulant qu'il était écrit en 
+langue mandchoue. 
+
+En janvier 2014, le linguiste britannique, Stephen 
+Bax, a présenté et édité ses premiers travaux 
+de recherche sur le manuscrit Voynich. Il a pour 
+cela utilisé la méthode de linguistique 
+comparée de l'égyptologue Jean-François 
+Champollion. Cette méthode lui a permis de 
+décrypter déjà 14 lettres et une dizaine de 
+mots. Il a ainsi comparé certaines plantes de 
+l'herbier avec des plantes identiques connues en 
+Europe et en Orient. Il a ainsi découvert que le 
+genévrier est calligraphié « oror » en langage 
+Voynich et que cette plante se dit « a'ra'r » en 
+langue arabe, langue que Stephen Bax a apprise et 
+pratiquée en Syrie et en Irak,. Il a ainsi obtenu 
+à la fois la traduction du mot en Voynich, mais 
+également sa prononciation. Il poursuivit ses 
+recherches sur une autre plante, la centaurée, 
+qu'il réussit à décrypter grâce cette méthode 
+avec le mot voynich « kantairon ». Stephen Bax, 
+au vu de l'avancée de ses travaux, souhaite qu'un 
+groupe de linguistes internationaux se constitue 
+afin que chacun apporte sa compétence et ses 
+connaissances18. « Mes recherches montrent de 
+façon concluante que le manuscrit n'est pas un 
+canular, comme certains l'ont prétendu et est 
+probablement un traité sur la nature, peut-être 
+dans une langue du Proche-Orient ou d'Asie ». 
+
+Langue polyglotte 
+
+Dans son livre Solution of the Voynich Manuscript: 
+A liturgical Manual for the Endura Rite of the 
+Cathari Heresy, the Cult of Isis (1987)19, Leo 
+Levitov déclarait que le manuscrit était une 
+transcription d'une « langue orale polyglotte ». 
+Il la définit comme « un langage littéraire 
+compréhensible pour les personnes qui ne 
+comprenaient pas le latin, mais qui pourraient 
+lire ce langage ». Sa méthode de déchiffrement 
+rassemble des séries de trois lettres pour former 
+chaque syllabe et produire une série de syllabes 
+formant un mélange de néerlandais médiéval, 
+d'ancien français et de vieux haut-allemand. 
+
+Selon Levitov, le rite d'Endura n'était rien 
+d'autre que l'assistance au suicide rituel pour 
+les personnes considérées comme proches de leur 
+fin, associé à la foi cathare (bien que la 
+réalité de ce rite soit aussi remise en 
+question). Il explique que les plantes 
+chimériques ne sont pas là pour représenter une 
+quelconque espèce florale, mais sont des symboles 
+secrets de la foi. Les femmes dans les bassins à 
+la tuyauterie complexe représentent le rituel 
+lui-même, qui impliquait de se couper les veines 
+pour laisser couler le sang dans un bain chaud. 
+Les constellations, sans analogue céleste, 
+représentent les étoiles du manteau d'Isis. 
+
+Cette théorie est mise en doute sur plusieurs 
+points. Premièrement, la foi cathare est 
+largement connue pour avoir été un gnosticisme 
+chrétien, mais jamais associé d'une quelconque 
+façon à Isis, puisqu'il n'existe aucun lien 
+connu entre le catharisme et Isis. Deuxièmement, 
+cette théorie place l'origine du livre au XIIe 
+siècle ou au XIIIe siècle, donc très 
+antérieure à ce que croient les adhérents de la 
+théorie de Roger Bacon eux-mêmes (et la datation 
+radiologique). Troisièmement, le rite d'Endura 
+implique un jeûne et non pas un acte 
+d'automutilation comme se couper les veines. 
+
+Levitov n'a proposé aucune preuve de sa théorie 
+au-delà de sa traduction. 
+
+Théorie de l'information 
+
+Plusieurs études récentes effectuées dans le 
+champ de la théorie de l'information, réduisent 
+la possibilité que d'un point de vue 
+linguistique, le Voynich soit sans aucun sens. 
+
+E09 une nouvelle approche de l'entropie a été 
+mené par Marcelo Montemurro de l'Université de 
+Manchester en utilisant une technique qui extrait 
+les termes les plus significatifs. Les scores de 
+parenté on montré la forte connexion 
+linguistique en rapport avec les représentations 
+picturales dans la section plantes. « Notre 
+analyse est la première qui relie réellement ces 
+sections seulement par leur structure linguistique 
+» dit Marcelo Montemurro. D'autres tests ont 
+mesuré les regroupements les mots : « Nous 
+voulions voir si la structure issue de l'analyse 
+serait cohérente ou non avec un langage réel 
+[...]. Étant donné la valeur que nous avons 
+obtenue, nous disons que nous ne pouvons pas 
+ignorer que c'est un langage » (Montemurro). 
+
+E13, des chercheurs de l’université de 
+Manchester et du Conseil national 
+d’investigations scientifiques et techniques 
+d’Argentine (CONICET) ont publié un article 
+dans la revue PLOS ONE20, où ils expliquent avoir 
+étudié le document avec des méthodes venant de 
+la théorie de l'information et qui révèlent que 
+le manuscrit a une organisation complexe et que la 
+distribution des mots est compatible avec une 
+langue réelle et incompatible avec un texte 
+aléatoire ; constat qui permet de réduire la 
+possibilité que le Voynich soit un faux traité. 
+
+Mystification 
+
+Les caractéristiques étranges du texte du 
+manuscrit de Voynich (comme le doublement ou le 
+triplement de mots) et le contenu suspect de ses 
+illustrations (comme les plantes chimériques) ont 
+fait penser que ce manuscrit était peut-être une 
+imposture, voire une escroquerie. 
+
+E03, le psychologue et linguiste britannique 
+Gordon Rugg, professeur au département de 
+mathématiques et d’informatique de 
+l’Université de Keele, montre qu'un texte 
+comparable au manuscrit de Voynich peut être 
+produit en utilisant un tableau de préfixes, 
+radicaux et suffixes de mots21, qui seraient 
+sélectionnés et combinés au moyen d'un cache de 
+papier perforé22. Connu sous le nom de grille de 
+Cardan, ce système fut inventé vers 1550 pour 
+servir d'outil de chiffrement dans la 
+correspondance diplomatique. Malgré tout, les 
+textes générés par la méthode de Gordon Rugg 
+n'ont ni les mêmes mots, ni les fréquences (loi 
+de Zipf) du manuscrit de Voynich ; la ressemblance 
+est visuelle, non quantitative. 
+
+Cependant, e08, les experts ont été en mesure de 
+produire un galimatias ressemblant à de l'anglais 
+(ou n'importe quelle autre langue) dans des 
+proportions analogues au manuscrit de Voynich22. 
+
+Même si Gordon Rugg n'a pas prouvé que le texte 
+était un faux, il a démontré que les techniques 
+de l'époque permettaient à des personnes ayant 
+une culture mathématique, de forger un texte 
+ayant certaines des propriétés statistiques du 
+manuscrit en un temps raisonnable (deux à quatre 
+mois). Notons que les faussaires Edward Kelley et 
+John Dee avaient au XVIe siècle inventé 
+l'énochien, la langue des anges, et son propre 
+alphabet. Kelley prétendait pouvoir parler aux 
+anges au travers d'un miroir en obsidienne polie. 
+Leur « grimoire » fut vendu pour 600 ducats d'or 
+à l'empereur Rodolphe II, qui raffolait de ce 
+genre d'artefacts. 
+
+Le fait qu'aucun linguiste ni aucun cryptographe 
+n'ait pu casser le code du Voynich incite à 
+privilégier l'hypothèse de l'imposture. Selon 
+Gordon Rugg, il s'agit de l'hypothèse la plus 
+difficile à admettre pour les amateurs 
+d'énigmes, et celle qui a été la plus 
+rapidement écartée dans toutes les études 
+traitant de ce manuscrit. 
+
+Hypothèses sur l'auteur 
+
+La paternité du manuscrit de Voynich a fait 
+l'objet d'un débat opposant les aspects 
+historiques et les expertises scientifiques. 
+Plusieurs noms ont été proposés. On retiendra 
+ici les plus populaires. 
+
+XIIIe siècle 
+
+Roger Bacon 
+
+La lettre de 1666 expédiée par Marci à 
+l'attention de Kircher, indique que le livre avait 
+été acheté par Rodolphe II du Saint-Empire. La 
+missive suggère que Rodolphe (ou peut-être 
+Mnishovsky) pensait que l'auteur était le 
+philosophe et alchimiste anglais Roger Bacon 
+(1214–1294)10. Depuis la datation au carbone 14, 
+cette attribution ne tient plus. 
+
+Même si Marci dit « émettre des doutes » au 
+sujet de cette affirmation, cette thèse fut prise 
+au sérieux par Voynich qui tenta de la valider de 
+son mieux. La conviction de Voynich influença 
+énormément les tentatives d'analyse et de 
+déchiffrement qui suivirent. 
+
+L'Américain William Newbold travailla durant deux 
+ans sur le manuscrit et arriva à la « conclusion 
+» que l'auteur était Bacon, mais il mourut e26 
+sans pouvoir défendre sa théorie. Elle fut 
+passablement critiquée par la suite. 
+
+Des experts, familiers des œuvres de Bacon, 
+eurent l'occasion d'examiner le manuscrit et 
+rejetèrent catégoriquement cette hypothèse23. 
+
+XVIe siècle 
+
+John Dee 
+
+La supposition que Roger Bacon était l'auteur 
+conduisit Voynich à conclure que la personne qui 
+vendit le manuscrit de Voynich à Rodolphe II ne 
+pouvait être que John Dee. Dee était un 
+mathématicien et un astrologue de la cour de la 
+reine Élisabeth Ire, connue pour détenir une 
+grande collection de manuscrits de Bacon (37 
+exactement) et clamait que le vrai nom de Bacon 
+était David Dee, un de ses ancêtres24. 
+
+Dee et son médium Edward Kelley vivaient en 
+Bohème entre 1584 et 1588, quand tous deux 
+espérèrent vendre leurs services à l'empereur. 
+Cependant, les agendas méticuleusement tenus par 
+Dee ne mentionnent pas cela et rendent cette 
+hypothèse assez invraisemblable. En tout cas, si 
+l'auteur du manuscrit de Voynich n'est pas Bacon, 
+la relation avec Dee disparaît, si ce n'était 
+les souvenirs de son fils, Arthur, âgé de huit 
+ans, : « Voynich raconte que Arthur Dee, alors 
+fils de John Dee, avait eu pour souvenir un père 
+intensément pris par l’étude d’un livre 
+entièrement écrit en hiéroglyphes. Il date cet 
+épisode aux alentours de 158624. » Après 
+l'acquisition du manuscrit par Rodolph II entre 
+1584 et 158826, il fut confié à ses savants et 
+à des experts pour étude26. C'est peut-être 
+dans ce cadre que le nom de Dee apparaît, s'il 
+l'a examiné comme le rapporte son fils. 
+
+Par ailleurs, Dee lui-même peut l'avoir rédigé 
+et avoir lancé la rumeur selon laquelle il 
+s'agissait originellement d'un travail de Bacon. 
+Dee aurait agi de la sorte dans l'espoir de vendre 
+ultérieurement le manuscrit [réf. souhaitée]. 
+
+Edward Kelley 
+
+Le compagnon de Dee à Prague, Edward Kelley, 
+était un alchimiste qui sortait de l'ordinaire. 
+Il avait annoncé sa capacité à transformer du 
+cuivre en or par le biais d'une poudre secrète 
+qu'il avait découverte dans la tombe d'un 
+évêque au Pays de Galles. Il affirma également 
+être capable d'invoquer des anges en touchant une 
+boule de cristal et d'avoir de longues 
+conversations avec eux. Dee rapporta ces faits 
+dans des documents manuscrits. Le langage des 
+anges était l'énochien, d'après Énoch, le 
+père biblique de Mathusalem. D'après la 
+légende, Kelley aurait fait un voyage avec les 
+anges et aurait expliqué son périple dans le 
+livre d'Énoch. Plusieurs personnes ont suggéré 
+que comme Kelley avait inventé le livre d'Enoch 
+pour tromper Dee, il aurait également pu 
+fabriquer le manuscrit de Voynich dans le but de 
+le vendre à l'empereur (qui rémunérait déjà 
+Kelley pour ses supposés talents d'alchimiste). 
+
+L'hypothèse privilégiée par Gordon Rugg (2004) 
+est que le manuscrit aurait été forgé par 
+Edward Kelley et John Dee ensemble. Le manuscrit 
+semble avoir été écrit avec deux écritures 
+avec des mots ayant des fréquences différentes 
+selon l'écriture. Edward Kelley et John Dee 
+avaient déjà inventé ensemble l'énochien, la 
+« langue des anges », ce qui en fait des 
+spécialistes de l'arnaque et des langues 
+forgées. Selon cette hypothèse, le manuscrit ne 
+renfermerait aucune information. Leur présence à 
+Prague au moment de la vente du manuscrit à 
+l’Empereur de Bohème ajoute du crédit à cette 
+hypothèse. 
+
+Anthony Ascham 
+
+Dans les années 1940, le docteur Leonell Strong, 
+chercheur en cancérologie à l'Université de 
+Yale et cryptologue à ses heures, tenta de 
+déchiffrer le manuscrit de Voynich27. Strong « 
+présuma que le système d’encryptage utilisé 
+était un double système particulier de 
+progression arithmétique d’un alphabet multiple 
+très voisin de ceux de Trithème, Porta et 
+Seleni28. » Il assura que le texte en clair 
+correspondait à un manuscrit anglais du XVIe 
+siècle d'Anthony Ascham. Ascham avait publié A 
+Little Herbal e50 à Londres. Si le manuscrit de 
+Voynich contient bel et bien une section 
+ressemblant très fortement à un herbier, la 
+théorie de Strong n'explique pas comment Ascham 
+aurait pu acquérir les connaissances 
+cryptographiques et littéraires nécessaires pour 
+rédiger le manuscrit. 
+
+XVIIe siècle 
+
+Jacobus Sinapius 
+
+Une reproduction photostatique de la première 
+page du manuscrit, réalisée par Voynich vers 
+1921, montre certaines annotations quasiment 
+imperceptibles qui avaient été effacées. Le 
+texte a pu être rehaussé à l'aide de produits 
+chimiques, et a laissé apparaître le nom de 
+Jacobj à Tepenec. Il s'agirait de Jakub Horcicky 
+de Tepenec, Jacobus Sinapius en latin. Ce 
+spécialiste en herboristerie était le docteur 
+personnel de l'empereur Rodolphe II, titré e08 « 
+de Tepenec », et s'occupait également de ses 
+jardins. Voynich et d'autres personnes après lui, 
+conclurent d'après cette « signature » que 
+Jacobus Sinapius possédait l'ouvrage avant 
+Baresch. Cette découverte renforçait l'histoire 
+de Raphael Mnishovsky. D'autres affirmèrent que 
+Jacobus Sinapius lui-même pouvait être l'auteur 
+du manuscrit. 
+
+Un doute repose sur cette piste : la signature 
+effacée du manuscrit ne correspond pas aux autres 
+signatures connues de Jacobus Sinapius comme celle 
+découverte par Jan Hurich dans un document. Il 
+est tout à fait plausible que cette annotation 
+sur la page droite f1 fut l'œuvre d'un libraire 
+ou d'une quelconque personne qui eut l'occasion 
+d'étudier ou de posséder le livre. À l'époque 
+de Kircher, Jacobus Sinapius est le seul 
+alchimiste ou docteur de la cour de Rodolphe II 
+auquel on a consacré une page entière dans les 
+livres d'histoire jésuites. Tycho Brahe, par 
+exemple, est à peine mentionné. L'application 
+des produits chimiques a tellement dégradé le 
+vélin, que la signature est à peine visible. Il 
+est possible que Voynich ait volontairement 
+façonné et endommagé cette signature dans le 
+but de renforcer la théorie attribuant la 
+paternité à Roger Bacon, tout en empêchant 
+d'éventuelles contre-expertises. 
+
+Jan Marci 
+
+Jan Marci rencontra Kircher alors qu'il était à 
+la tête d'une délégation envoyée par 
+l'université Charles à Rome e38. Au cours des 
+vingt-sept années qui suivirent, les deux 
+érudits échangèrent un volumineux courrier 
+scientifique. Le voyage de Marci avait pour but 
+d'assurer l'indépendance de l'université Charles 
+vis-à-vis des jésuites. Ceux-ci géraient le 
+collège Clementinum, qui était un rival pour 
+l'université. Malgré ces efforts, les deux 
+établissements furent fusionnés sous le 
+contrôle des jésuites. 
+
+C'est dans ce contexte religieux et politique 
+tendu que Marci aurait pu fabriquer les lettres de 
+Georg Baresch et plus tard le manuscrit de Voynich 
+dans le but de se venger de Kircher, favorable aux 
+jésuites. La personnalité de Marci et ses 
+connaissances semblent être compatibles avec la 
+réalisation de l'ouvrage. Kircher était 
+convaincu de détenir le savoir, il était plus 
+connu pour ses erreurs et sa candeur que pour son 
+prétendu génie. Kircher était donc une cible 
+facile et il s'était déjà fait ridiculiser à 
+une autre occasion : l'orientaliste Andreas 
+Mueller lui avait concocté un manuscrit, 
+prétendument originaire d'Égypte ; le contenu 
+était en fait incohérent et volontairement sans 
+aucune signification. Mueller demanda à Kircher 
+d'en faire une traduction. Kircher renvoya alors 
+une traduction complète, ce qui ne manqua pas de 
+le discréditer. 
+
+Les seules preuves de l'existence de Georg Baresch 
+sont trois lettres envoyées à Kircher : une par 
+Baresch (1639) et deux par Marci (environ une 
+année plus tard). La correspondance entre Marci 
+et Kircher s'achève e65, au même moment que la 
+lettre concernant le manuscrit de Voynich. 
+Cependant, toute cette thèse repose sur la haine 
+de Marci à l'égard des jésuites. Ce sentiment 
+n'est que pure conjecture : Marci était un 
+fervent catholique, il avait lui-même étudié 
+pour devenir jésuite et peu avant sa mort e67, il 
+fut nommé membre honorifique de l'ordre. 
+
+Raphael Mnishovsky 
+
+Raphael Mnishovsky, ami de Marci, était lui-même 
+un cryptographe (entre autres) et avait 
+apparemment inventé une méthode de chiffrement 
+qu'il disait inviolable (vers 1618). Sa 
+connaissance des chiffres a alimenté les 
+soupçons à son sujet. Le manuscrit de Voynich 
+aurait pu être une démonstration du système de 
+Mnishovsky. Baresch aurait ainsi été son « 
+cobaye » pour cette expérience de cryptanalyse. 
+Après la publication du livre de Kircher sur le 
+copte, Mischowsky aurait pensé que tromper un 
+jésuite aurait été plus gratifiant que Baresch. 
+Il aurait demandé ainsi à l'alchimiste d'entrer 
+en contact avec Kircher en le motivant grâce à 
+une histoire sur Roger Bacon montée de toutes 
+pièces. Aucune preuve concrète n'est toutefois 
+venue étayer cette hypothèse. 
+
+XXe siècle 
+
+Wilfrid Voynich 
+
+Voynich a été suspecté d'avoir lui-même 
+fabriqué l'ouvrage qui porte son nom. En tant que 
+marchand de livres anciens, il disposait des 
+moyens et des connaissances nécessaires pour 
+inventer un manuscrit faussement attribué à 
+Roger Bacon. Un tel livre aurait représenté une 
+fortune et un mobile financier pourrait avoir 
+motivé la création de ce faux. 
+
+Cette possibilité semble pouvoir être écartée. 
+La lettre de Baresch destinée à Kircher datant 
+de 1639, qui a été retrouvée récemment par 
+René Zandbergen2, est la première allusion au 
+manuscrit trouvée jusqu'alors et il est fort 
+improbable que W. Voynich en ait eu connaissance. 
+

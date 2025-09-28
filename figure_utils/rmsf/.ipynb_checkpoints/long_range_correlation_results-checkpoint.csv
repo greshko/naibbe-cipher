@@ -1,0 +1,5 @@
+Text,Hurst Exponent,Crossover Point,Shuffled Hurst Exponent,Shuffled Crossover Point,RMSF Plot Path,Autocorrelation Plot Path
+voynich_b,0.677,812,0.441,236,long_range_plots/voynich_b_rmsf_exact.png,long_range_plots/voynich_b_autocorrelation.png
+naibbe,0.53,9624,0.483,156,long_range_plots/naibbe_rmsf_exact.png,long_range_plots/naibbe_autocorrelation.png
+inferno,0.531,538,0.499,21937,long_range_plots/inferno_rmsf_exact.png,long_range_plots/inferno_autocorrelation.png
+alice,0.568,1852,0.491,33118,long_range_plots/alice_rmsf_exact.png,long_range_plots/alice_autocorrelation.png

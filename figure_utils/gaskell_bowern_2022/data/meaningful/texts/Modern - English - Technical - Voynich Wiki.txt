@@ -1,0 +1,1274 @@
+The Voynich manuscript is an illustrated codex 
+hand-written in an unknown writing system. The 
+vellum on which it is written has been 
+carbon-dated to the early 15th century 
+(1404–1438), and it may have been composed in 
+Northern Italy during the Italian Renaissance. The 
+manuscript is named after Wilfrid Voynich, a 
+Polish book dealer who purchased it in 1912. 
+
+Some of the pages are missing, with around 240 
+remaining. The text is written from left to right, 
+and most of the pages have illustrations or 
+diagrams. Some pages are foldable sheets. 
+
+The Voynich manuscript has been studied by many 
+professional and amateur cryptographers, including 
+American and British codebreakers from both World 
+War I and World War II. No one has yet 
+demonstrably deciphered the text, and it has 
+become a famous case in the history of 
+cryptography. The mystery of the meaning and 
+origin of the manuscript has excited the popular 
+imagination, making the manuscript the subject of 
+novels and speculation. None of the many 
+hypotheses proposed over the last hundred years 
+has yet been independently verified. 
+
+In 1969 the Voynich manuscript was donated by Hans 
+P. Kraus to Yale University's Beinecke Rare Book 
+and Manuscript Library, where it is catalogued 
+under call number MS 408. 
+
+Description 
+
+Codicology 
+
+The codicology, or physical characteristics of the 
+manuscript, has been studied by researchers. The 
+manuscript measures 23.5 by 16.2 by 5 cm (9.3 by 
+6.4 by 2.0 in), with hundreds of vellum pages 
+collected into 18 quires (units of 25 pages). The 
+total number of pages is around 240, but the exact 
+number depends on how the manuscript's unusual 
+foldouts are counted. The quires have been 
+numbered from 1 to 20 in various locations, using 
+numerals consistent with the 1400s, and the top 
+righthand corner of each recto (righthand) page 
+has been numbered from 1 to 116, using numerals of 
+a later date. From the various numbering gaps in 
+the quires and pages, it seems likely that in the 
+past the manuscript had at least 272 pages in 20 
+quires, some of which were already missing when 
+Wilfrid Voynich acquired the manuscript in 1912. 
+There is strong evidence that many of the book's 
+bifolios were reordered at various points in its 
+history, and that the original page order may well 
+have been quite different from what it is today. 
+
+Parchment, covers, and binding 
+
+Radiocarbon dating of samples from various parts 
+of the manuscript was performed at the University 
+of Arizona in 2009. The results were consistent 
+for all samples tested and indicated a date for 
+the parchment between 1404 and 1438. Protein 
+testing in 2014 revealed that the parchment was 
+made from calf skin, and multispectral analysis 
+showed that it was unwritten on before the 
+manuscript was created. The parchment was created 
+with care, but deficiencies exist and the quality 
+is assessed as average, at best. 
+
+Some folios are thicker than the usual parchment 
+thickness, such as bifolios 42 and 47. 
+
+The goat skin binding and covers are not original 
+to the book, but date to its possession by the 
+Collegio Romano. Insect holes are present on the 
+first and last folios of the manuscript in the 
+current order and suggest that a wooden cover was 
+present before the later covers, and discolouring 
+on the edges points to a tanned-leather inside 
+cover. 
+
+Ink 
+
+Many pages contain substantial drawings or charts 
+which are colored with paint. Based on modern 
+analysis using polarized light microscopy (PLM), 
+it has been determined that a quill pen and iron 
+gall ink were used for the text and figure 
+outlines; the colored paint was applied (somewhat 
+crudely) to the figures, possibly at a later date. 
+The ink of the drawings, text and page and quire 
+numbers had similar microscopic characteristics. 
+Energy-dispersive X-ray spectroscopy (EDS) 
+performed in 2009 revealed that the inks contained 
+major amounts of iron, sulfur, potassium, calcium 
+and carbon and trace amounts of copper and 
+occasionally zinc. EDS did not show the presence 
+of lead, while X-ray Diffraction (XRD) identified 
+potassium lead oxide, potassium hydrogen sulphate 
+and syngenite in one of the samples tested. The 
+similarity between the drawing inks and text inks 
+suggested a contemporaneous origin. 
+
+Paint 
+
+The blue, clear (or white), red-brown, and green 
+paints of the manuscript have been analyzed using 
+PLM, XRD, EDS, and scanning electron microscopy 
+(SEM). The blue paint proved to be ground azurite 
+with minor traces of the copper oxide cuprite. The 
+clear paint is likely a mixture of eggwhite and 
+calcium carbonate, while the green paint is 
+tentatively characterized by copper and 
+copper-chlorine resinate; the crystalline material 
+might be atacamite or another copper-chlorine 
+compound. Analysis of the red-brown paint 
+indicated a red ochre with the crystal phases 
+hematite and iron sulfide. Minor amounts of lead 
+sulfide and palmierite were possibly present in 
+the red-brown paint. The pigments were considered 
+inexpensive. 
+
+Retouching 
+
+Computer scientist Jorge Stolfi of the University 
+of Campinas highlighted that parts of the text and 
+drawings are modified, using darker ink over a 
+fainter earlier script. Evidence for this is 
+visible in various folios, for example f1r, f3v, 
+f26v, f57v, f67r2, f71r, f72v1, f72v3 and f73r. 
+
+Text 
+
+Every page in the manuscript contains text, mostly 
+in an unidentified language, but some have 
+extraneous writing in Latin script. The bulk of 
+the text in the 240-page manuscript is written in 
+an unknown script, running left to right. Most of 
+the characters are composed of one or two simple 
+pen strokes. Some dispute exists as to whether 
+certain characters are distinct, but a script of 
+20–25 characters would account for virtually all 
+of the text; the exceptions are a few dozen rarer 
+characters that occur only once or twice each. 
+There is no obvious punctuation. 
+
+Much of the text is written in a single column in 
+the body of a page, with a slightly ragged right 
+margin and paragraph divisions and sometimes with 
+stars in the left margin. Other text occurs in 
+charts or as labels associated with illustrations. 
+There are no indications of any errors or 
+corrections made at any place in the document. The 
+ductus flows smoothly, giving the impression that 
+the symbols were not enciphered; there is no delay 
+between characters, as would normally be expected 
+in written encoded text. 
+
+The text consists of over 170,000 characters, with 
+spaces dividing the text into about 35,000 groups 
+of varying length, usually referred to as "words" 
+or "word tokens" (37,919); 8,114 of those words 
+are considered unique "word types". The structure 
+of these words seems to follow phonological or 
+orthographic laws of some sort; for example, 
+certain characters must appear in each word (like 
+English vowels), some characters never follow 
+others, or some may be doubled or tripled, but 
+others may not.[citation needed] The distribution 
+of letters within words is also rather peculiar; 
+some characters occur only at the beginning of a 
+word, some only at the end, and some always in the 
+middle section.[citation needed] Professor Gonzalo 
+Rubio, an expert in ancient languages at 
+Pennsylvania State University, stated, "the things 
+we know as 'grammatical markers' – things that 
+occur commonly at the beginning or end of words, 
+such as 's' or 'd' in our language, and that are 
+used to express grammar, never appear in the 
+middle of 'words' in the Voynich manuscript. 
+That's unheard of for any Indo-European, Hungarian 
+or Finnish language." Many researchers have 
+commented upon the highly regular structure of the 
+words. The distribution of letters within the text 
+is also strange; the chronology presents unknown 
+correlations among European languages, partly 
+found in Chinese, according to a study by Stephan 
+Vonfelt. 
+
+Some words occur in only certain sections, or in 
+only a few pages; others occur throughout the 
+manuscript. There are very few repetitions among 
+the thousand or so labels attached to the 
+illustrations. There are practically no words with 
+fewer than two letters or more than ten. There are 
+instances where the same common word appears up to 
+three times in a row. Words that differ by only 
+one letter also repeat with unusual frequency, 
+causing single-substitution alphabet decipherings 
+to yield babble-like text. In 1962, cryptanalyst 
+Elizebeth Friedman described such attempts as 
+"doomed to utter frustration". 
+
+Various transcription alphabets have been created 
+to equate the Voynich characters with Latin 
+characters to help with cryptanalysis, such as the 
+European Voynich Alphabet. The first major one was 
+created by cryptographer William F. Friedman in 
+the 1940s, where each line of the manuscript was 
+transcribed to an IBM punch card to make it 
+machine readable. 
+
+Extraneous writing 
+
+Only a few words in the manuscript are considered 
+to be not written in the unknown script: 
+
+f1r: A sequence of Latin letters in the right 
+margin parallel with characters from the unknown 
+script, also the now unreadable signature of 
+"Jacobj à Tepenece" is found in the bottom 
+margin. 
+
+f17r: A line of writing in the Latin script in the 
+top margin 
+
+f70v–f73v: The astrological series of diagrams 
+in the astronomical section has the names of 10 of 
+the months (from March to December) written in 
+Latin script, with spelling suggestive of the 
+medieval languages of France, northwest Italy, or 
+the Iberian Peninsula 
+
+f66r: A small number of words in the bottom left 
+corner near a drawing of a nude man have been read 
+as "der musz del", a High German phrase for a 
+widow's share. 
+
+f116v: Four lines written in rather distorted 
+Latin script, except for two words in the unknown 
+script. The words in Latin script appear to be 
+distorted with characteristics of the unknown 
+language. The lettering resembles European 
+alphabets of the late 14th and 15th centuries, but 
+the words do not seem to make sense in any 
+language. 
+
+Whether these bits of Latin script were part of 
+the original text or were added later is not 
+known. 
+
+Illustrations 
+
+The illustrations are conventionally used to 
+divide most of the manuscript into six different 
+sections, since the text itself cannot be read. 
+Each section is typified by illustrations with 
+different styles and supposed subject matter 
+except for the last section, in which the only 
+drawings are small stars in the margin. The 
+following are the sections and their conventional 
+names: 
+
+Herbal, 112 folios: Each page displays one or two 
+plants and a few paragraphs of text, a format 
+typical of European herbals of the time. Some 
+parts of these drawings are larger and cleaner 
+copies of sketches seen in the "pharmaceutical" 
+section. None of the plants depicted are 
+unambiguously identifiable. 
+
+Astronomical, 21 folios: Contains circular 
+diagrams suggestive of astronomy or astrology, 
+some of them with suns, moons, and stars. One 
+series of 12 diagrams depicts conventional symbols 
+for the zodiacal constellations (two fish for 
+Pisces, a bull for Taurus, a hunter with crossbow 
+for Sagittarius, etc.). Each of these has 30 
+female figures arranged in two or more concentric 
+bands. Most of the females are at least partly 
+nude, and each holds what appears to be a labeled 
+star or is shown with the star attached to either 
+arm by what could be a tether or cord of some 
+kind. The last two pages of this section were lost 
+(Aquarius and Capricornus, roughly January and 
+February), while Aries and Taurus are split into 
+four paired diagrams with 15 women and 15 stars 
+each. Some of these diagrams are on fold-out 
+pages. 
+
+Biological, 20 folios: A dense continuous text 
+interspersed with figures, mostly showing small 
+nude women, some wearing crowns, bathing in pools 
+or tubs connected by an elaborate network of 
+pipes. The bifolio consists of folios 78 (verso) 
+and 81 (recto); it forms an integrated design, 
+with water flowing from one folio to the other. 
+
+Cosmological, 13 folios: More circular diagrams, 
+but they are of an obscure nature. This section 
+also has foldouts; one of them spans six pages, 
+commonly called the Rosettes folio, and contains a 
+map or diagram with nine "islands" or "rosettes" 
+connected by "causeways" and containing castles, 
+as well as what might be a volcano. 
+
+Pharmaceutical, 34 folios: Many labeled drawings 
+of isolated plant parts (roots, leaves, etc.), 
+objects resembling apothecary jars, ranging in 
+style from the mundane to the fantastical, and a 
+few text paragraphs. 
+
+Recipes, 22 folios: Full pages of text broken into 
+many short paragraphs, each marked with a star in 
+the left margin. 
+
+Five folios contain only text, and at least 28 
+folios are missing from the manuscript. 
+
+Purpose 
+
+The overall impression given by the surviving 
+leaves of the manuscript is that it was meant to 
+serve as a pharmacopoeia or to address topics in 
+medieval or early modern medicine. However, the 
+puzzling details of illustrations have fueled many 
+theories about the book's origin, the contents of 
+its text, and the purpose for which it was 
+intended. 
+
+The first section of the book is almost certainly 
+herbal, but attempts have failed to identify the 
+plants, either with actual specimens or with the 
+stylized drawings of contemporaneous herbals. Only 
+a few of the plant drawings can be identified with 
+reasonable certainty, such as a wild pansy and the 
+maidenhair fern. The herbal pictures that match 
+pharmacological sketches appear to be clean copies 
+of them, except that missing parts were completed 
+with improbable-looking details. In fact, many of 
+the plant drawings in the herbal section seem to 
+be composite: the roots of one species have been 
+fastened to the leaves of another, with flowers 
+from a third. 
+
+Botanist Hugh O'Neill believed that one 
+illustration depicted a New World sunflower, which 
+would help date the manuscript and open up 
+intriguing possibilities for its origin; 
+unfortunately, the identification is only 
+speculative. 
+
+The basins and tubes in the "biological" section 
+are sometimes interpreted as implying a connection 
+to alchemy, yet they bear little obvious 
+resemblance to the alchemical equipment of the 
+period.[citation needed] 
+
+Astrological considerations frequently played a 
+prominent role in herb gathering, bloodletting, 
+and other medical procedures common during the 
+likeliest dates of the manuscript. However, 
+interpretation remains speculative, apart from the 
+obvious Zodiac symbols and one diagram possibly 
+showing the classical planets. 
+
+History 
+
+Much of the early history of the book is unknown, 
+though the text and illustrations are all 
+characteristically European. In 2009, University 
+of Arizona researchers performed radiocarbon 
+dating on the manuscript's vellum and dated it 
+between 1404 and 1438. In addition, McCrone 
+Associates in Westmont, Illinois, found that the 
+paints in the manuscript were of materials to be 
+expected from that period of European history. It 
+has been suggested that McCrone Associates found 
+that much of the ink was added not long after the 
+creation of the parchment, but the official report 
+contains no statement to this effect. 
+
+The first confirmed owner was Georg Baresch 
+(1585–1662), an obscure alchemist from Prague. 
+Baresch was apparently just as puzzled as modern 
+scientists about this "Sphynx" that had been 
+"taking up space uselessly in his library" for 
+many years. He learned that Jesuit scholar 
+Athanasius Kircher (1602–1680) from the Collegio 
+Romano had published a Coptic (Egyptian) 
+dictionary and claimed to have deciphered the 
+Egyptian hieroglyphs; Baresch twice sent a sample 
+copy of the script to Kircher in Rome, asking for 
+clues. His 1639 letter to Kircher is the earliest 
+confirmed mention of the manuscript that has been 
+found to date. 
+
+It is not known whether Kircher answered the 
+request, but he was apparently interested enough 
+to try to acquire the book, which Baresch refused 
+to yield. Upon Baresch's death, the manuscript 
+passed to his friend Jan Marek Marci (1595–1667; 
+also known as Johannes Marcus Marci), then rector 
+of Charles University in Prague. A few years 
+later, Marci sent the book to Kircher, his 
+longtime friend and correspondent. 
+
+A letter written on August 19, 1665 or 1666 was 
+found inside the cover and accompanied the 
+manuscript when Johannes Marcus sent it to 
+Kircher. It claims that the book once belonged to 
+Emperor Rudolf II (1552–1612), who paid 600 gold 
+ducats (about 2.07 kg of gold) for it. The letter 
+was written in Latin and has been translated to 
+English. The book was then given or lent to 
+Jacobus Horcicky de Tepenecz (died 1622), the head 
+of Rudolf's botanical gardens in Prague, probably 
+as part of the debt that Rudolf II owed upon his 
+death. 
+
+Marci's 1665/6 cover letter written in Latin was 
+still with the manuscript when Voynich purchased 
+it: 
+
+Reverend and Distinguished Sir, Father in Christ: 
+
+This book, bequeathed to me by an intimate friend, 
+I destined for you, my very dear Athanasius, as 
+soon as it came into my possession, for I was 
+convinced that it could be read by no one except 
+yourself. 
+
+The former owner of this book asked your opinion 
+by letter, copying and sending you a portion of 
+the book from which he believed you would be able 
+to read the remainder, but he at that time refused 
+to send the book itself. To its deciphering he 
+devoted unflagging toil, as is apparent from 
+attempts of his which I send you herewith, and he 
+relinquished hope only with his life. But his toil 
+was in vain, for such Sphinxes as these obey no 
+one but their master, Kircher. Accept now this 
+token, such as it is and long overdue though it 
+be, of my affection for you, and burst through its 
+bars, if there are any, with your wonted success. 
+
+Dr. Raphael, a tutor in the Bohemian language to 
+Ferdinand III, then King of Bohemia, told me the 
+said book belonged to the Emperor Rudolph and that 
+he presented to the bearer who brought him the 
+book 600 ducats. He believed the author was Roger 
+Bacon, the Englishman. On this point I suspend 
+judgement; it is your place to define for us what 
+view we should take thereon, to whose favor and 
+kindness I unreservedly commit myself and remain 
+
+At the command of your Reverence, 
+
+Joannes Marcus Marci of Cronland 
+
+Prague, 19th August, 1665 (or 1666) 
+
+No records of the book for the next 200 years have 
+been found, but in all likelihood, it was stored 
+with the rest of Kircher's correspondence in the 
+library of the Collegio Romano (now the Pontifical 
+Gregorian University). It probably remained there 
+until the troops of Victor Emmanuel II of Italy 
+captured the city in 1870 and annexed the Papal 
+States. The new Italian government decided to 
+confiscate many properties of the Church, 
+including the library of the Collegio. Many books 
+of the university's library were hastily 
+transferred to the personal libraries of its 
+faculty just before this happened, according to 
+investigations by Xavier Ceccaldi and others, and 
+those books were exempt from confiscation. 
+Kircher's correspondence was among those books, 
+and so, apparently, was the Voynich manuscript, as 
+it still bears the ex libris of Petrus Beckx, head 
+of the Jesuit order and the university's rector at 
+the time. 
+
+Beckx's private library was moved to the Villa 
+Mondragone, Frascati, a large country palace near 
+Rome that had been bought by the Society of Jesus 
+in 1866 and housed the headquarters of the 
+Jesuits' Ghislieri College. 
+
+In 1903, the Society of Jesus (Collegio Romano) 
+was short of money and decided to sell some of its 
+holdings discreetly to the Vatican Library. 
+Ruysschaert 1959 published a list of those books, 
+which were for sale. The sale then took place in 
+1912, but books listed for the sale were missing. 
+Wilfrid Voynich acquired 30 of these manuscripts, 
+among them the one which now bears his name. He 
+spent the next seven years attempting to interest 
+scholars in deciphering the script, while he 
+worked to determine the origins of the manuscript. 
+
+In 1930, the manuscript was inherited after 
+Wilfrid's death by his widow Ethel Voynich, author 
+of the novel The Gadfly and daughter of 
+mathematician George Boole. She died in 1960 and 
+left the manuscript to her close friend Anne Nill. 
+In 1961, Nill sold the book to antique book dealer 
+Hans P. Kraus. Kraus was unable to find a buyer 
+and donated the manuscript to Yale University in 
+1969, where it was catalogued as "MS 408," 
+sometimes also referred to as "Beinecke MS 408." 
+
+Timeline of ownership 
+
+The timeline of ownership of the Voynich 
+manuscript is given below. The commonly accepted 
+owners of the 17th century are shown in orange; 
+the long period of storage in the Collegio Romano 
+is shown in yellow; the location where Wilfrid 
+Voynich allegedly acquired the manuscript 
+(Frascati) is shown in green; Voynich is shown in 
+red; and modern owners are shown in blue. Periods 
+of unknown ownership are indicated in white, and 
+the time when it was possibly created in green, 
+based on the carbon dating of the vellum. 
+
+Timeline of Voynich manuscript ownership 
+
+Authorship hypotheses 
+
+Many people have been proposed as possible authors 
+of the Voynich manuscript. 
+
+Marci's 1665/6 cover letter to Kircher says that, 
+according to his friend the late Raphael 
+Mnishovsky, the book had once been bought by 
+Rudolf II, Holy Roman Emperor and King of Bohemia 
+(1552–1612) for 600 ducats (66.42 troy ounce 
+actual gold weight, or 2.07 kg). (Mnishovsky had 
+died in 1644, more than 20 years earlier, and the 
+deal must have occurred before Rudolf's abdication 
+in 1611, at least 55 years before Marci's letter.) 
+According to the letter, Mnishovsky (but not 
+necessarily Rudolf) speculated that the author was 
+Franciscan friar and polymath Roger Bacon 
+(1214–94). Marci said that he was suspending 
+judgment about this claim, but it was taken quite 
+seriously by Wilfrid Voynich who did his best to 
+confirm it. Voynich contemplated the possibility 
+that the author was Albertus Magnus if not Roger 
+Bacon. However, Karl Widemann sold books to Rudolf 
+II in March 1599. 
+
+The assumption that Bacon was the author led 
+Voynich to conclude that John Dee (1527–1608) 
+sold the manuscript to Rudolf. Dee was a 
+mathematician and astrologer at the court of Queen 
+Elizabeth I of England who was known to have owned 
+a large collection of Bacon's manuscripts. Dee and 
+his scrier (spirit medium) Edward Kelley lived in 
+Bohemia for several years, where they had hoped to 
+sell their services to the emperor. However, this 
+sale seems quite unlikely, according to John 
+Schuster, because Dee's meticulously kept diaries 
+do not mention it. If Bacon did not create the 
+Voynich manuscript, a supposed connection to Dee 
+is much weakened. It was thought possible, prior 
+to the carbon dating of the manuscript, that Dee 
+or Kelley might have written it and spread the 
+rumor that it was originally a work of Bacon's in 
+the hopes of later selling it. 
+
+Fabrication by Voynich 
+
+Some suspect Voynich of having fabricated the 
+manuscript himself. As an antique book dealer, he 
+probably had the necessary knowledge and means, 
+and a lost book by Roger Bacon would have been 
+worth a fortune. Furthermore, Baresch's letter and 
+Marci's letter only establish the existence of a 
+manuscript, not that the Voynich manuscript is the 
+same one mentioned. These letters could possibly 
+have been the motivation for Voynich to fabricate 
+the manuscript, assuming that he was aware of 
+them. However, many consider the expert internal 
+dating of the manuscript and the June 1999 
+discovery of Baresch's letter to Kircher as having 
+eliminated this possibility. Eamon Duffy says that 
+the radiocarbon dating of the parchment (or, more 
+accurately, vellum) "effectively rules out any 
+possibility that the manuscript is a post-medieval 
+forgery", as the consistency of the pages 
+indicates origin from a single source, and "it is 
+inconceivable" that a quantity of unused parchment 
+comprising "at least fourteen or fifteen entire 
+calfskins" could have survived from the early 15th 
+century. However, recent forgeries of Dead Sea 
+Scrolls, which are based on 2,000-year-old leather 
+as their “slate”, render pure carbon dating 
+insufficient. 
+
+Giovanni Fontana 
+
+It has been suggested that some illustrations in 
+the books оf an Italian engineer, Giovanni 
+Fontana, slightly resemble Voynich illustrations. 
+Fontana was familiar with cryptography and used it 
+in his books, although he didn't use the Voynich 
+script but a simple substitution cipher. In the 
+book Secretum de thesauro experimentorum 
+ymaginationis hominum (Secret of the treasure-room 
+of experiments in man's imagination), written ca. 
+1430, Fontana described mnemonic machines, written 
+in his cypher. At least Bellicorum instrumentorum 
+liber and this book used a cryptographic system, 
+described as a simple, rational cipher, based on 
+signs without letters or numbers. 
+
+Other theories 
+
+Sometime before 1921, Voynich was able to read a 
+name faintly written at the foot of the 
+manuscript's first page: "Jacobj à Tepenece". 
+This is taken to be a reference to Jakub 
+Hořčický of Tepenec (1575–1622), also known 
+by his Latin name Jacobus Sinapius. Rudolph II had 
+ennobled him in 1607, had appointed him his 
+Imperial Distiller, and had made him curator of 
+his botanical gardens as well as one of his 
+personal physicians. Voynich (and many other 
+people after him) concluded that Jacobus owned the 
+Voynich manuscript prior to Baresch, and he drew a 
+link from that to Rudolf's court, in confirmation 
+of Mnishovsky's story. 
+
+Jacobus's name is still clearly visible under 
+ultraviolet light; however, it does not match the 
+copy of his signature in a document located by Jan 
+Hurych in 2003. As a result, it has been suggested 
+that the signature was added later, possibly even 
+fraudulently by Voynich himself. 
+
+It has been noted that Baresch's letter bears some 
+resemblance to a hoax that orientalist Andreas 
+Mueller once played on Kircher. Mueller sent some 
+unintelligible text to Kircher with a note 
+explaining that it had come from Egypt, and asking 
+him for a translation. Kircher reportedly solved 
+it. It has been speculated that these were both 
+cryptographic tricks played on Kircher to make him 
+look foolish. 
+
+Raphael Mnishovsky, the friend of Marci who was 
+the reputed source of Bacon's story, was himself a 
+cryptographer and apparently invented a cipher 
+which he claimed was uncrackable (ca. 1618). This 
+has led to the speculation that Mnishovsky might 
+have produced the Voynich manuscript as a 
+practical demonstration of his cipher and made 
+Baresch his unwitting test subject. Indeed, the 
+disclaimer in the Voynich manuscript cover letter 
+could mean that Marci suspected some kind of 
+deception. 
+
+In his 2006 book, Nick Pelling proposed that the 
+Voynich manuscript was written by 15th century 
+North Italian architect Antonio Averlino (also 
+known as "Filarete"), a theory broadly consistent 
+with the radiocarbon dating. 
+
+Language hypotheses 
+
+Many hypotheses have been developed about the 
+Voynich manuscript's "language", called 
+Voynichese: 
+
+Ciphers 
+
+According to the "letter-based cipher" theory, the 
+Voynich manuscript contains a meaningful text in 
+some European language that was intentionally 
+rendered obscure by mapping it to the Voynich 
+manuscript "alphabet" through a cipher of some 
+sort—an algorithm that operated on individual 
+letters. This has been the working hypothesis for 
+most 20th-century deciphering attempts, including 
+an informal team of NSA cryptographers led by 
+William F. Friedman in the early 1950s. 
+
+The main argument for this theory is that it is 
+difficult to explain a European author using a 
+strange alphabet—except as an attempt to hide 
+information. Indeed, even Roger Bacon knew about 
+ciphers, and the estimated date for the manuscript 
+roughly coincides with the birth of cryptography 
+in Europe as a relatively systematic 
+discipline.[citation needed] 
+
+The counterargument is that almost all cipher 
+systems consistent with that era fail to match 
+what is seen in the Voynich manuscript. For 
+example, simple substitution ciphers would be 
+excluded because the distribution of letter 
+frequencies does not resemble that of any known 
+language; while the small number of different 
+letter shapes used implies that nomenclator and 
+homophonic ciphers would be ruled out, because 
+these typically employ larger cipher alphabets. 
+Polyalphabetic ciphers were invented by Alberti in 
+the 1460s and included the later Vigenère cipher, 
+but they usually yield ciphertexts where all 
+cipher shapes occur with roughly equal 
+probability, quite unlike the language-like letter 
+distribution which the Voynich manuscript appears 
+to have. 
+
+However, the presence of many tightly grouped 
+shapes in the Voynich manuscript (such as "or", 
+"ar", "ol", "al", "an", "ain", "aiin", "air", 
+"aiir", "am", "ee", "eee", among others) does 
+suggest that its cipher system may make use of a 
+"verbose cipher", where single letters in a 
+plaintext get enciphered into groups of fake 
+letters. For example, the first two lines of page 
+f15v (seen above) contain "oror or" and "or or oro 
+r", which strongly resemble how Roman numbers such 
+as "CCC" or "XXXX" would look if verbosely 
+enciphered. 
+
+That the encryption system started from a 
+fundamentally simple cipher and then augmented it 
+by adding nulls (meaningless symbols), homophones 
+(duplicate symbols), transposition cipher (letter 
+rearrangement), false word breaks, and more is 
+also entirely possible. 
+
+Codes 
+
+According to the "codebook cipher" theory, the 
+Voynich manuscript "words" would actually be codes 
+to be looked up in a "dictionary" or codebook. The 
+main evidence for this theory is that the internal 
+structure and length distribution of many words 
+are similar to those of Roman numerals, which at 
+the time would be a natural choice for the codes. 
+However, book-based ciphers would be viable for 
+only short messages, because they are very 
+cumbersome to write and to read.[citation needed] 
+
+Shorthand 
+
+In 1943, Joseph Martin Feely claimed that the 
+manuscript was a scientific diary written in 
+shorthand. According to D’Imperio, this was 
+“Latin, but in a system of abbreviated forms not 
+considered acceptable by other scholars, who 
+unanimously rejected his readings of the text”. 
+
+Steganography 
+
+This theory holds that the text of the Voynich 
+manuscript is mostly meaningless, but contains 
+meaningful information hidden in inconspicuous 
+details—e.g., the second letter of every word, 
+or the number of letters in each line. This 
+technique, called steganography, is very old and 
+was described by Johannes Trithemius in 1499. 
+Though the plain text was speculated to have been 
+extracted by a Cardan grille (an overlay with 
+cut-outs for the meaningful text) of some sort, 
+this seems somewhat unlikely because the words and 
+letters are not arranged on anything like a 
+regular grid. Still, steganographic claims are 
+hard to prove or disprove, since stegotexts can be 
+arbitrarily hard to find. 
+
+It has been suggested that the meaningful text 
+could be encoded in the length or shape of certain 
+pen strokes. There are indeed examples of 
+steganography from about that time that use letter 
+shape (italic vs. upright) to hide information. 
+However, when examined at high magnification, the 
+Voynich manuscript pen strokes seem quite natural, 
+and substantially affected by the uneven surface 
+of the vellum.[citation needed] 
+
+Natural language 
+
+Statistical analysis of the text reveals patterns 
+similar to those of natural languages. For 
+instance, the word entropy (about 10 bits per 
+word) is similar to that of English or Latin 
+texts. In 2013, Diego Amancio et al argued that 
+the Voynich manuscript "is mostly compatible with 
+natural languages and incompatible with random 
+texts". 
+
+The linguist Jacques Guy once suggested that the 
+Voynich manuscript text could be some little-known 
+natural language, written in the plain with an 
+invented alphabet. The word structure is similar 
+to that of many language families of East and 
+Central Asia, mainly Sino-Tibetan (Chinese, 
+Tibetan, and Burmese), Austroasiatic (Vietnamese, 
+Khmer, etc.) and possibly Tai (Thai, Lao, etc.). 
+In many of these languages, the words have only 
+one syllable; and syllables have a rather rich 
+structure, including tonal patterns. 
+
+This theory has some historical plausibility. 
+While those languages generally had native 
+scripts, these were notoriously difficult for 
+Western visitors. This difficulty motivated the 
+invention of several phonetic scripts, mostly with 
+Latin letters, but sometimes with invented 
+alphabets. Although the known examples are much 
+later than the Voynich manuscript, history records 
+hundreds of explorers and missionaries who could 
+have done it—even before Marco Polo's 
+13th-century journey, but especially after Vasco 
+da Gama sailed the sea route to the Orient in 
+1499. 
+
+The main argument for this theory is that it is 
+consistent with all statistical properties of the 
+Voynich manuscript text which have been tested so 
+far, including doubled and tripled words (which 
+have been found to occur in Chinese and Vietnamese 
+texts at roughly the same frequency as in the 
+Voynich manuscript). It also explains the apparent 
+lack of numerals and Western syntactic features 
+(such as articles and copulas), and the general 
+inscrutability of the illustrations. Another 
+possible hint is two large red symbols on the 
+first page, which have been compared to a 
+Chinese-style book title, inverted and badly 
+copied. Also, the apparent division of the year 
+into 360 days (rather than 365 days), in groups of 
+15 and starting with Pisces, are features of the 
+Chinese agricultural calendar (jie qi, 節氣). 
+The main argument against the theory is the fact 
+that no one (including scholars at the Chinese 
+Academy of Sciences in Beijing) has been able to 
+find any clear examples of Asian symbolism or 
+Asian science in the illustrations. 
+
+In 1976, James R Child of the National Security 
+Agency, a linguist of Indo-European languages, 
+proposed that the manuscript was written in a 
+"hitherto unknown North Germanic dialect". He 
+identified in the manuscript a "skeletal syntax 
+several elements of which are reminiscent of 
+certain Germanic languages", while the content 
+itself is expressed using "a great deal of 
+obscurity". 
+
+In February 2014, Professor Stephen Bax of the 
+University of Bedfordshire made public his 
+research into using "bottom up" methodology to 
+understand the manuscript. His method involves 
+looking for and translating proper nouns, in 
+association with relevant illustrations, in the 
+context of other languages of the same time 
+period. A paper he posted online offers tentative 
+translation of 14 characters and 10 words. He 
+suggests the text is a treatise on nature written 
+in a natural language, rather than a code. 
+
+In 2014, Arthur O. Tucker and Rexford H. Talbert 
+published a paper claiming a positive 
+identification of 37 plants, six animals, and one 
+mineral referenced in the manuscript to plant 
+drawings in the Libellus de Medicinalibus Indorum 
+Herbis or Badianus manuscript, a fifteenth century 
+Aztec herbal. Together with the presence of 
+atacamite in the paint, they argue that the plants 
+were from Colonial New Spain and represented the 
+Nahuatl language, and date the manuscript to 
+between 1521 (the date of the Conquest) and circa 
+1576, in contradiction of radiocarbon dating 
+evidence of the vellum and many other elements of 
+the manuscript. However, the vellum, while 
+creation of it was dated earlier, could just have 
+been stored and used at a later date for 
+manuscript making. The analysis has been 
+criticized by other Voynich manuscript 
+researchers, pointing out that—among other 
+things—a skilled forger could construct plants 
+that have a passing resemblance to theretofore 
+undiscovered existing plants. 
+
+In 2014, a team lead by Dr. Diego Amancio of the 
+University of São Paulo's Institute of 
+Mathematical and Computer Sciences published a 
+paper detailing a study using statistical methods 
+to analyse the relationships of the words in the 
+text. Instead of trying to find the meaning, 
+Amancio's team used complex network modelling to 
+look for connections and clusters of words. By 
+employing concepts such as frequency and 
+intermittence, which measure occurrence and 
+concentration of a term in the text, Amancio was 
+able to discover the manuscript's keywords and 
+create three-dimensional models of the text's 
+structure and word frequencies. Their conclusion 
+was that in 90% of cases, the Voynich systems are 
+similar to those of other known books such as the 
+Bible, indicating that the book is an actual piece 
+of text in an actual language, and not 
+well-planned gibberish. 
+
+The use of the framework was exemplified with the 
+analysis of the Voynich manuscript, with the final 
+conclusion that it differs from a random sequence 
+of words, being compatible with natural languages. 
+Even though our approach is not aimed at 
+deciphering Voynich, it was capable of providing 
+keywords that could be helpful for decipherers in 
+the future. 
+
+Constructed language 
+
+See also: Philosophical language 
+
+The peculiar internal structure of Voynich 
+manuscript words led William F. Friedman to 
+conjecture that the text could be a constructed 
+language. In 1950, Friedman asked the British army 
+officer John Tiltman to analyze a few pages of the 
+text, but Tiltman did not share this conclusion. 
+In a paper in 1967, Brigadier Tiltman said: 
+
+After reading my report, Mr. Friedman disclosed to 
+me his belief that the basis of the script was a 
+very primitive form of synthetic universal 
+language such as was developed in the form of a 
+philosophical classification of ideas by Bishop 
+Wilkins in 1667 and Dalgarno a little later. It 
+was clear that the productions of these two men 
+were much too systematic, and anything of the kind 
+would have been almost instantly recognisable. My 
+analysis seemed to me to reveal a cumbersome 
+mixture of different kinds of substitution. 
+
+The concept of an constructed language is quite 
+old, as attested by John Wilkins's Philosophical 
+Language (1668), but still postdates the generally 
+accepted origin of the Voynich manuscript by two 
+centuries. In most known examples, categories are 
+subdivided by adding suffixes; as a consequence, a 
+text in a particular subject would have many words 
+with similar prefixes—for example, all plant 
+names would begin with similar letters, and 
+likewise for all diseases, etc. This feature could 
+then explain the repetitious nature of the Voynich 
+text. However, no one has been able yet to assign 
+a plausible meaning to any prefix or suffix in the 
+Voynich manuscript. 
+
+Hoax 
+
+The unusual features of the Voynich manuscript 
+text (such as the doubled and tripled words), and 
+the suspicious contents of its illustrations 
+support the idea that the manuscript is a hoax. In 
+other words, if no one is able to extract meaning 
+from the book, then perhaps this is because the 
+document contains no meaningful content in the 
+first place. Various hoax theories have been 
+proposed over time. 
+
+In 2003, computer scientist Gordon Rugg showed 
+that text with characteristics similar to the 
+Voynich manuscript could have been produced using 
+a table of word prefixes, stems, and suffixes, 
+which would have been selected and combined by 
+means of a perforated paper overlay. The latter 
+device, known as a Cardan grille, was invented 
+around 1550 as an encryption tool, more than 100 
+years after the estimated creation date of the 
+Voynich manuscript. Some maintain that the 
+similarity between the pseudo-texts generated in 
+Gordon Rugg's experiments and the Voynich 
+manuscript is superficial, and the grille method 
+could be used to emulate any language to a certain 
+degree. 
+
+In April 2007, a study by Austrian researcher 
+Andreas Schinner published in Cryptologia 
+supported the hoax hypothesis. Schinner showed 
+that the statistical properties of the 
+manuscript's text were more consistent with 
+meaningless gibberish produced using a 
+quasi-stochastic method such as the one described 
+by Rugg, than with Latin and medieval German 
+texts. 
+
+Some scholars have claimed that the manuscript's 
+text appears too sophisticated to be a hoax. In 
+2013 Marcelo Montemurro, a theoretical physicist 
+from the University of Manchester published 
+findings claiming that semantic networks such as 
+content-bearing words occurring in a clustered 
+pattern, and new words being used when there was a 
+shift in topic exist in the text of the 
+manuscript. With this evidence, he believes it 
+unlikely that these features were intentionally 
+"incorporated" into the text to make a hoax more 
+realistic, as most of the required academic 
+knowledge of these structures did not exist at the 
+time the Voynich manuscript would have been 
+written. 
+
+In September 2016, Gordon Rugg and Gavin Taylor 
+addressed these objections in another article in 
+Cryptologia, and illustrated a simple hoax method 
+that they claim could have caused the mathematical 
+properties of the text. 
+
+Glossolalia 
+
+In their 2004 book, Gerry Kennedy and Rob 
+Churchill suggest the possibility that the Voynich 
+manuscript may be a case of glossolalia 
+(speaking-in-tongues), channeling, or outsider 
+art. If so, the author felt compelled to write 
+large amounts of text in a manner which resembles 
+stream of consciousness, either because of voices 
+heard or because of an urge. This often takes 
+place in an invented language in glossolalia, 
+usually made up of fragments of the author's own 
+language, although invented scripts for this 
+purpose are rare. 
+
+Kennedy and Churchill use Hildegard von Bingen's 
+works to point out similarities between the 
+Voynich manuscript and the illustrations that she 
+drew when she was suffering from severe bouts of 
+migraine, which can induce a trance-like state 
+prone to glossolalia. Prominent features found in 
+both are abundant "streams of stars", and the 
+repetitive nature of the "nymphs" in the 
+biological section. This theory has been found 
+unlikely by other researchers. 
+
+The theory is virtually impossible to prove or 
+disprove, short of deciphering the text. Kennedy 
+and Churchill are themselves not convinced of the 
+hypothesis, but consider it plausible. In the 
+culminating chapter of their work, Kennedy states 
+his belief that it is a hoax or forgery. Churchill 
+acknowledges the possibility that the manuscript 
+is a synthetic forgotten language (as advanced by 
+Friedman) or a forgery as preeminent theories. 
+However, he concludes that, if the manuscript is 
+genuine, mental illness or delusion seems to have 
+affected the author. 
+
+Decipherment claims 
+
+Since the manuscript's modern rediscovery in 1912, 
+there have been a number of claimed decipherings. 
+
+William Romaine Newbold 
+
+One of the earliest efforts to unlock the book's 
+secrets (and the first of many premature claims of 
+decipherment) was made in 1921 by William Romaine 
+Newbold of the University of Pennsylvania. His 
+singular hypothesis held that the visible text is 
+meaningless itself, but that each apparent 
+"letter" is in fact constructed of a series of 
+tiny markings discernible only under 
+magnification. These markings were supposed to be 
+based on ancient Greek shorthand, forming a second 
+level of script that held the real content of the 
+writing. Newbold claimed to have used this 
+knowledge to work out entire paragraphs proving 
+the authorship of Bacon and recording his use of a 
+compound microscope four hundred years before van 
+Leeuwenhoek. A circular drawing in the 
+"astronomical" section depicts an irregularly 
+shaped object with four curved arms, which Newbold 
+interpreted as a picture of a galaxy, which could 
+be obtained only with a telescope. Similarly, he 
+interpreted other drawings as cells seen through a 
+microscope. 
+
+However, Newbold's analysis has since been 
+dismissed as overly speculative after John 
+Matthews Manly of the University of Chicago 
+pointed out serious flaws in his theory. Each 
+shorthand character was assumed to have multiple 
+interpretations, with no reliable way to determine 
+which was intended for any given case. Newbold's 
+method also required rearranging letters at will 
+until intelligible Latin was produced. These 
+factors alone ensure the system enough flexibility 
+that nearly anything at all could be discerned 
+from the microscopic markings. Although evidence 
+of micrography using the Hebrew language can be 
+traced as far back as the ninth century, it is 
+nowhere near as compact or complex as the shapes 
+Newbold made out. Close study of the manuscript 
+revealed the markings to be artifacts caused by 
+the way ink cracks as it dries on rough vellum. 
+Perceiving significance in these artifacts can be 
+attributed to pareidolia. Thanks to Manly's 
+thorough refutation, the micrography theory is now 
+generally disregarded. 
+
+Joseph Martin Feely 
+
+In 1943, Joseph Martin Feely published Roger 
+Bacon's Cipher: The Right Key Found, in which he 
+claimed that the book was a scientific diary 
+written by Roger Bacon. Feely's method posited 
+that the text was a highly abbreviated medieval 
+Latin written in a simple substitution cipher. 
+
+Leonell C Strong 
+
+Leonell C. Strong, a cancer research scientist and 
+amateur cryptographer, believed that the solution 
+to the Voynich manuscript was a "peculiar double 
+system of arithmetical progressions of a multiple 
+alphabet". Strong claimed that the plaintext 
+revealed the Voynich manuscript to be written by 
+the 16th-century English author Anthony Ascham, 
+whose works include A Little Herbal, published in 
+1550. Notes released after his death reveal that 
+the last stages of his analysis, in which he 
+selected words to combine into phrases, was 
+questionably subjective. 
+
+Robert S Brumbaugh 
+
+In 1978 Robert Brumbaugh, a professor of medieval 
+philosophy at Yale University, claimed that the 
+manuscript was a forgery intended to fool Emperor 
+Rudolf II into purchasing it, and that the text is 
+Latin enciphered with a complex, two-step method. 
+
+John Stojko 
+
+In 1978, John Stojko published Letters to God's 
+Eye in which he claimed that the Voynich 
+Manuscript was a series of letters written in 
+vowelless Ukrainian. The theory caused some 
+sensation among Ukrainian diaspora at the time, 
+and then in independent Ukraine after 1991. 
+However, the date Stojko gives for the letters, 
+the lack of relation between the text and the 
+images, and the general looseness in the method of 
+decryption all speak against his theory. 
+
+Leo Levitov 
+
+Leo Levitov proposed in his 1987 book, Solution of 
+the Voynich Manuscript: A Liturgical Manual for 
+the Endura Rite of the Cathari Heresy, the Cult of 
+Isis, that the manuscript is a handbook for the 
+Cathar rite of Endura written in a Flemish based 
+creole. He further claimed that Catharism was 
+descended from the cult of Isis. 
+
+However, Levitov's decipherment has been refuted 
+on several grounds, not least of which being 
+unhistorical. Levitov had a poor grasp on the 
+history of the Cathars, and his depiction of 
+Endura as an elaborate suicide ritual is at odds 
+with surviving documents describing it as a fast. 
+Likewise, there is no known link between Catharism 
+and Isis. 
+
+Stephen Bax 
+
+In 2014, expert in applied linguistics Professor 
+Stephen Bax published an article in which he 
+claimed to have translated ten words from the 
+manuscript using techniques similar to those used 
+to successfully translate Egyptian hieroglyphs. He 
+claimed the manuscript to be a treatise on nature, 
+in a Near Eastern or Asian language, but no full 
+translation was made before his death in 2017. 
+
+Nicholas Gibbs 
+
+In September 2017, television writer Nicholas 
+Gibbs claimed to have decoded the manuscript as 
+idiosyncratically abbreviated Latin. 
+
+Medieval scholars judged Gibbs' hypothesis to be 
+not novel. Gibbs' work was criticized as patching 
+together already-existing scholarship and 
+providing a highly speculative and incorrect 
+translation; Lisa Fagin Davis, director of the 
+Medieval Academy of America, stated that Gibbs' 
+decipherment "doesn’t result in Latin that makes 
+sense." 
+
+Greg Kondrak 
+
+Professor Greg Kondrak, a natural language 
+processing expert of the University of Alberta, 
+together with his graduate student Bradley Hauer, 
+used Artificial Intelligence in an attempt to 
+decode the manuscript. Their findings were 
+presented at the Annual Meeting of the Association 
+for Computational Linguistics in 2017, in the form 
+of an article suggesting that the language of the 
+manuscript is most likely Hebrew, but encoded 
+using alphagrams, i.e. alphabetically ordered 
+anagrams. However, the team admitted that experts 
+in medieval manuscripts who reviewed the work were 
+not convinced. The claim is also disputed by an 
+expert in Hebrew and its history. 
+
+Facsimile 
+
+Many books and articles have been written about 
+the manuscript. Copies of the manuscript pages 
+were made by alchemist Georgius Barschius in 1637 
+and sent to Athanasius Kircher, and later by 
+Wilfrid Voynich. 
+
+In 2004, the Beinecke Rare Book and Manuscript 
+Library made high-resolution digital scans 
+publicly available online, and several printed 
+facsimiles appeared. In 2016, the Beinecke Library 
+and Yale University Press co-published a 
+facsimile, The Voynich Manuscript, with scholarly 
+essays. 
+
+The Beinecke Library also authorized the 
+production of a print run of 898 replicas by the 
+Spanish publisher Siloé in 2017. 
+
+Cultural influence 
+
+The manuscript has also inspired several works of 
+fiction, including The Book of Blood and Shadow 
+(2012) by Robin Wasserman, Time Riders: The 
+Doomsday Code (2011) by Alex Scarrow, Codex (2004) 
+by Lev Grossman, PopCo (2004) by Scarlett Thomas, 
+Prime (2013) by Jeremy Robinson with Sean Ellis, 
+The Sword of Moses (2013) by Dominic Selwood, The 
+Return of the Lloigor (1974) by Colin Wilson, 
+Datura tai harha jonka jokainen näkee (2001) 
+(Eng: Datura: or, A Delusion We All See, 2013) by 
+Leena Krohn, Assassin's Code (2012) by Jonathan 
+Maberry, The Book of Life (2014) by Deborah 
+Harkness, The 39 Clues: Trust No One (2012) by 
+Linda Sue Park and The Source (2008) by Michael 
+Cordy. 
+
+Between 1976 and 1978, Italian artist Luigi 
+Serafini created the Codex Seraphinianus 
+containing false writing and pictures of imaginary 
+plants, in a style reminiscent of the Voynich 
+manuscript. 
+
+Contemporary classical composer Hanspeter Kyburz's 
+1995 Chamber work The Voynich Cipher Manuscript, 
+for chorus & ensemble is inspired by the 
+manuscript. 
+
+In 2015, the New Haven Symphony Orchestra 
+commissioned Hannah Lash to compose a symphony 
+inspired by the manuscript. 
+
