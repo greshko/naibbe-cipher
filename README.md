@@ -25,7 +25,7 @@ structures.
 
 Additional datasets, including the original Microsoft Excel implementations of
 the Naibbe cipher and Voynichesque, can be found at:
-https://zenodo.org/records/16415088
+https://doi.org/10.5281/zenodo.16415087
 
 Extensive discussion of a preprint version of this paper can be accessed at:
 https://www.voynich.ninja//thread-4848.html
